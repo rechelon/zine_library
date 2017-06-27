@@ -1,9 +1,12 @@
-This is a compilation of zines, imposed for easy printing, as well as a few posters.
+# Zine Library
 
-Download a copy while you still can.
+This is a compilation of anarchist zines and booklets, imposed for easy printing, as well as a few posters.
+
+Download a copy while you still can. See https://github.com/infoshop-io/generator/ for an automatic website generator to host this zine collection. Stock your own infoshop today!
 
 
-### Full books not included here
+
+### Full books not included here, but advised for any infoshop:
 
 Goldman - Anarchism and other Essays
 
@@ -28,8 +31,6 @@ Guerin - No Gods No Masters
 Bakunin - God and the State
 
 Graeber - Debt: The First 5000 Years
-
-Graeber - Fragments of an Anarchist Anthropology
 
 Tucker - Instead of a Book
 
@@ -61,7 +62,7 @@ Daring - Queering Anarchism: Addressing and Undressing Power
 
 
 
-### Historical Accounts
+#### Historical Accounts
 
 Paz - Durruti
 
@@ -79,7 +80,7 @@ Orwell - Homage to Catalonia
 
 
 
-### Fiction
+#### Fiction
 
 Le Guin - The Dispossessed
 
