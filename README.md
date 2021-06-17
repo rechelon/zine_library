@@ -4,6 +4,12 @@ This is a compilation of anarchist zines and booklets, imposed for easy printing
 
 Download a copy while you still can. See https://github.com/infoshop-io/generator/ for an automatic website generator to host this zine collection. Stock your own infoshop today!
 
+- [intros](./Basic%20Intros)
+- [guides](./Guides)
+- [Histories](./Locations%20%26%20Histories)
+- [Dynamics](./Personal%20Dynamics)
+- [posters](./Posters%20%26%20Assrtd)
+- [theory](./Theory)
 
 
 ### Full books not included here, but advised for any infoshop:
