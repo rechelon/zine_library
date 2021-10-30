@@ -72,11 +72,11 @@ Mutual Aid - Peter Kropotkin
 
 Ethics: Origin and Development - Peter Kropotkin
 
-Nationalism and Culture - Peter Kropotkin
+Nationalism and Culture - Rocker
 
 Revolution and Other Writings - Gustav Landauer
 
-
+God and the State - Bakunin
 
 
 ### General Modern Theory
