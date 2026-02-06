@@ -1,0 +1,43 @@
+{% extends "base.html" %}
+
+{% block title %}{{ article.title }} - {{ SITENAME }}{% endblock %}
+
+{% block content %}
+<article class="article-full">
+    <header class="article-header">
+        <div class="article-meta">
+            {% if article.category %}
+              <a href="{{ SITEURL }}/{{ article.category.url }}" class="article-category">{{ article.category }}</a>
+            {% endif %}
+            {% if article.tags %}
+                <div class="article-tags">
+                    {% for tag in article.tags %}
+                    <a href="{{ SITEURL }}/{{ tag.url }}" class="tag-pill">{{ tag }}</a>
+                    {% endfor %}
+                </div>
+            {% endif %}
+
+        </div>
+        <h1 class="article-title">{{ article.title }}</h1>
+    </header>
+
+    <div class="article-content">
+        {{ article.content }}
+    </div>
+
+</article>
+
+{% if article.related_posts %}
+<section class="related-posts">
+    <h3 class="related-title">Related Posts</h3>
+    <div class="related-grid">
+        {% for related in article.related_posts %}
+        <article class="related-card">
+            <h4><a href="{{ SITEURL }}/{{ related.url }}">{{ related.title }}</a></h4>
+            <time datetime="{{ related.date.isoformat() }}">{{ related.locale_date }}</time>
+        </article>
+        {% endfor %}
+    </div>
+</section>
+{% endif %}
+{% endblock %}

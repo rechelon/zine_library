@@ -1,0 +1,52 @@
+{% extends "base.html" %}
+
+{% block title %}
+{% if category %}Category: {{ category }} - {{ SITENAME }}
+{% elif tag %}Tag: {{ tag }} - {{ SITENAME }}
+{% elif author %}Author: {{ author }} - {{ SITENAME }}
+{% endif %}
+{% endblock %}
+
+{% block content %}
+<div class="archive-header">
+    <h1 class="archive-title">
+        {% if category %}Category: {{ category }}
+        {% elif tag %}Tag: {{ tag }}
+        {% elif author %}Author: {{ author }}
+        {% endif %}
+    </h1>
+</div>
+
+<div class="articles-grid">
+    {% for article in articles %}
+    <article class="article-card">
+        <div class="article-meta">
+            <time datetime="{{ article.date.isoformat() }}" class="article-date">
+                {{ article.locale_date }}
+            </time>
+            {% if article.category %}
+            <a href="{{ SITEURL }}/{{ article.category.url }}" class="article-category">{{ article.category }}</a>
+            {% endif %}
+        </div>
+        <h2 class="article-title">
+            <a href="{{ SITEURL }}/{{ article.url }}">{{ article.title }}</a>
+        </h2>
+        {% if article.summary %}
+        <div class="article-summary">
+            {{ article.summary }}
+        </div>
+        {% endif %}
+        <div class="article-footer">
+            <a href="{{ SITEURL }}/{{ article.url }}" class="read-more">Read more</a>
+            {% if article.tags %}
+            <div class="article-tags">
+                {% for tag in article.tags %}
+                <a href="{{ SITEURL }}/{{ tag.url }}" class="tag-pill">{{ tag }}</a>
+                {% endfor %}
+            </div>
+            {% endif %}
+        </div>
+    </article>
+    {% endfor %}
+</div>
+{% endblock %}
