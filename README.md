@@ -1,3 +1,7 @@
+### Deployment instructions
+
+To deploy the website, dump the zine folders in the input folder within the codebase, then run the python script. Then run pelican.
+
 # Zine Library
 
 This is a compilation of anarchist zines and booklets, imposed for easy printing, as well as a few posters. It's curated in a balance between some design standards and general relevance or importance.

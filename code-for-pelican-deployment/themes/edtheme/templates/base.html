@@ -41,9 +41,10 @@
         <aside class="sidebar sidebar-left">
             {% block sidebar_left %}
             <div class="sidebar-section">
-                <h3 class="sidebar-title">About</h3>
+                <h3 class="sidebar-title">Stock Your Table!</h3>
                 <div class="sidebar-content">
-                  This is a broad, non-sectarian, archive of print-ready (imposed) zines to stock your anarchist infoshop or distro project. For printing: select "print on both sides" and "flip on short edge".
+                  <p>This is a broad, non-sectarian, archive of print-ready (imposed) zines to stock your anarchist infoshop or distro project. We were huge fans of the long dead zinelibrary.net.</p>
+                  <p>For printing: select "print on both sides" and "flip on short edge".</p>
                 </div>
             </div>
 
@@ -52,27 +53,21 @@
                 <h3 class="sidebar-title">Categories</h3>
                 <ul class="category-list">
                     {% for cat, null in categories %}
-                    <li><a href="{{ SITEURL }}/{{ cat.url }}">{{ cat }}</a></li>
+                    <li><a href="{{ SITEURL }}/{{ cat.url }}" class="category">{{ cat }}</a></li>
                     {% endfor %}
                 </ul>
             </div>
             {% endif %}
             {% endblock %}
-        </aside>
 
-        <main class="main-content">
-            {% block content %}
-            {% endblock %}
-        </main>
 
-        <aside class="sidebar sidebar-right">
             {% block sidebar_right %}
             {% if tags %}
             <div class="sidebar-section">
                 <h3 class="sidebar-title">Tags</h3>
                 <div class="tag-cloud">
                     {% for tag in tag_cloud %}
-                    <a href="{{ SITEURL }}/{{ tag.0.url }}" class="tag" style="font-size: {{ tag.1 }}%">{{ tag.0 }}</a>
+                      <a href="{{ SITEURL }}/{{ tag.0.url }}" class="tag">{{ tag.0 }}</a>
                     {% endfor %}
                 </div>
             </div>
@@ -100,7 +95,14 @@
             </div>
             {% endif %}
             {% endblock %}
+
         </aside>
+
+        <main class="main-content">
+            {% block content %}
+            {% endblock %}
+        </main>
+
     </div>
 
     <footer class="site-footer">

@@ -1,3 +1,5 @@
+/* barebones theme for zinelibrary.org v.2  */ 
+
 @import url('https://fonts.googleapis.com/css2?family=Playfair+Display:ital,wght@0,400;0,700;1,400&family=Source+Sans+3:wght@300;400;600&display=swap');
 
 :root {
@@ -127,7 +129,7 @@ body {
     max-width: var(--max-width);
     margin: 0 auto;
     display: grid;
-    grid-template-columns: var(--sidebar-width) 1fr var(--sidebar-width);
+    grid-template-columns: var(--sidebar-width) 1fr ;
     gap: 3rem;
     padding: 3rem var(--spacing-unit);
     min-height: calc(100vh - var(--header-height) - 150px);
@@ -138,13 +140,15 @@ body {
 }
 
 .sidebar {
-    position: sticky;
+  position:static;
+  height:fit-content;
+    /*position: sticky;
     top: calc(var(--header-height) + 2rem);
     height: fit-content;
     max-height: calc(100vh - var(--header-height) - 4rem);
     overflow-y: auto;
     scrollbar-width: thin;
-    scrollbar-color: var(--color-border) transparent;
+    scrollbar-color: var(--color-border) transparent;*/
 }
 
 .sidebar::-webkit-scrollbar {
@@ -242,7 +246,6 @@ body {
 
 .article-card {
     border-bottom: 1px solid var(--color-border);
-    padding-bottom: 2.5rem;
     animation: fadeInUp 0.6s ease backwards;
 }
 
@@ -498,7 +501,7 @@ body {
 
 .pagination-link {
     font-family: var(--font-sans);
-    font-size: 0.95rem;
+    font-size: 1.5rem;
     font-weight: 600;
     text-transform: uppercase;
     letter-spacing: 0.05em;
@@ -512,7 +515,7 @@ body {
 }
 
 .pagination-info {
-    font-size: 0.9rem;
+    font-size: 1.5rem;
     color: var(--color-muted);
 }
 
@@ -607,6 +610,106 @@ body {
 .footer-content a:hover {
     color: var(--color-hover);
 }
+
+/* Tile Layout for Index Page */
+.tiles-container {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 2rem;
+    width: 100%;
+}
+
+.tile {
+    max-width: 300px;
+    width: 300px;
+    background: var(--color-paper);
+    border: 1px solid var(--color-border);
+    transition: all 0.3s ease;
+    animation: fadeInUp 0.6s ease backwards;
+}
+
+.tile:nth-child(1) { animation-delay: 0.05s; }
+.tile:nth-child(2) { animation-delay: 0.1s; }
+.tile:nth-child(3) { animation-delay: 0.15s; }
+.tile:nth-child(4) { animation-delay: 0.2s; }
+.tile:nth-child(5) { animation-delay: 0.25s; }
+.tile:nth-child(6) { animation-delay: 0.3s; }
+
+.tile:hover {
+    transform: translateY(-4px);
+    box-shadow: 0 8px 24px rgba(0, 0, 0, 0.15);
+    border-color: var(--color-accent);
+}
+
+.tile-link {
+    color: inherit;
+}
+
+.tile-image-disabled- {
+    width: 300px;
+    height: 300px;
+    overflow: hidden;
+    background: var(--color-paper);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.tile-image img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    transition: transform 0.3s ease;
+}
+
+.tile:hover .tile-image img {
+    transform: scale(1.05);
+}
+
+/*  */
+.tile-image p:nth-child(2) {
+  display:none;
+}
+
+.tile-title {
+    font-family: var(--font-serif);
+    font-size: 1.3rem;
+    font-weight: 700;
+    line-height: 1.3;
+    padding: 1rem;
+    color: var(--color-ink);
+    transition: color 0.3s ease;
+}
+
+.tile:hover .tile-title {
+    color: var(--color-accent);
+}
+
+.tile-meta {
+    padding: 0 1rem 1rem 1rem;
+    display: flex;
+    flex-wrap: wrap;
+    gap: 0.5rem;
+    font-size: 0.8rem;
+    text-transform: uppercase;
+    letter-spacing: 0.05em;
+    font-weight: 600;
+}
+
+.tile-category {
+    color: var(--color-accent);
+    background: rgba(200, 70, 48, 0.1);
+    padding: 0.25rem 0.6rem;
+    border-radius: 2px;
+}
+
+.tile-tag {
+    color: var(--color-muted);
+    background: rgba(0, 0, 0, 0.05);
+    padding: 0.25rem 0.6rem;
+    border-radius: 2px;
+}
+
 
 /* Responsive Design */
 @media (max-width: 1200px) {

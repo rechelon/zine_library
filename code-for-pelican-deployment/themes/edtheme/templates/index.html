@@ -1,30 +1,32 @@
 {% extends "base.html" %}
 
 {% block content %}
-<div class="articles-grid">
+<div class="tiles-container">
     {% for article in articles_page.object_list %}
-    <article class="article-card">
-        <div class="article-meta">
-            {% if article.category %}
-            <a href="{{ SITEURL }}/{{ article.category.url }}" class="article-category">{{ article.category }}</a>
-            {% endif %}
-            {% if article.tags %}
-              <div class="article-tags">
-                  {% for tag in article.tags %}
-                  <a href="{{ SITEURL }}/{{ tag.url }}" class="tag-pill">{{ tag }}</a>
-                  {% endfor %}
-              </div>
-            {% endif %}
+    <article class="tile">
 
-        </div>
-        <h2 class="article-title">
-            <a href="{{ SITEURL }}/{{ article.url }}">{{ article.title }}</a>
-        </h2>
-        {% if article.content %}
-        <div class="article-content">
-            {{ article.content }}
-        </div>
-        {% endif %}
+            <div class="tile-image">
+              <a href="{{ article.url }}" class="">
+                {{ article.content }}
+                </a>
+            </div>
+
+            <a href="{{ SITEURL }}/{{ article.url }}" class="tile-link">
+              <h2 class="tile-title">{{ article.title }}</h2>
+            </a>
+
+            <div class="tile-meta">
+                {% if article.category %}
+                  <a href="{{SITEURL }}/category/{{article.category}}" >
+                  <span class="tile-category">{{ article.category }}</span>
+                  </a>
+                {% endif %}
+                {% if article.tags %}
+                    {% for tag in article.tags %}
+                    <a href="{{SITEURL }}/tag/{{tag}}" ><span class="tile-tag">{{ tag }}</span></a>
+                    {% endfor %}
+                {% endif %}
+            </div>
     </article>
     {% endfor %}
 </div>
@@ -32,11 +34,11 @@
 {% if articles_page.has_other_pages() %}
 <nav class="pagination">
     {% if articles_page.has_previous() %}
-    <a href="{{ SITEURL }}/{{ articles_previous_page.url }}" class="pagination-link pagination-prev">← Newer</a>
+    <a href="{{ SITEURL }}/{{ articles_previous_page.url }}" class="pagination-link pagination-prev">← Back</a>
     {% endif %}
     <span class="pagination-info">Page {{ articles_page.number }} of {{ articles_paginator.num_pages }}</span>
     {% if articles_page.has_next() %}
-    <a href="{{ SITEURL }}/{{ articles_next_page.url }}" class="pagination-link pagination-next">Older →</a>
+    <a href="{{ SITEURL }}/{{ articles_next_page.url }}" class="pagination-link pagination-next">Forward →</a>
     {% endif %}
 </nav>
 {% endif %}

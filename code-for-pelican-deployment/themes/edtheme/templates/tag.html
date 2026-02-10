@@ -21,23 +21,9 @@
     {% for article in articles %}
     <article class="article-card">
         <div class="article-meta">
-            <time datetime="{{ article.date.isoformat() }}" class="article-date">
-                {{ article.locale_date }}
-            </time>
             {% if article.category %}
             <a href="{{ SITEURL }}/{{ article.category.url }}" class="article-category">{{ article.category }}</a>
             {% endif %}
-        </div>
-        <h2 class="article-title">
-            <a href="{{ SITEURL }}/{{ article.url }}">{{ article.title }}</a>
-        </h2>
-        {% if article.summary %}
-        <div class="article-summary">
-            {{ article.summary }}
-        </div>
-        {% endif %}
-        <div class="article-footer">
-            <a href="{{ SITEURL }}/{{ article.url }}" class="read-more">Read more</a>
             {% if article.tags %}
             <div class="article-tags">
                 {% for tag in article.tags %}
@@ -45,6 +31,17 @@
                 {% endfor %}
             </div>
             {% endif %}
+
+        </div>
+        <h2 class="article-title">
+            <a href="{{ SITEURL }}/{{ article.url }}">{{ article.title }}</a>
+        </h2>
+        {% if article.content %}
+        <div class="article-content">
+            {{ article.content }}
+        </div>
+        {% endif %}
+        <div class="article-footer">
         </div>
     </article>
     {% endfor %}
