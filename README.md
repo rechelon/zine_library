@@ -11,6 +11,7 @@ Download a copy while you still can. See https://github.com/infoshop-io/generato
 Below is a broader reading list of important texts (mostly books, some articles).
 
 
+
 ## On Anarchist Reading Lists (some initial caveats)
 
 Below is a quickly sketched map of texts with importance and influence in the anarchist movement. It is not a map of *ideas*, which are distinct from texts and flourish in anarchist spaces often with little or no reference to formal texts. Anarchists care far more about generalized ideas and arguments than Great Figures and genealogies. This is why we call ourselves Anarchists and not Proudhonists.
@@ -19,7 +20,7 @@ Reading a ton of books and even zines is no replacement for having personal disc
 
 Too often bibliographies of anarchism are wildly biased documents clearly pushing a specific party line or actively trying to re-write history by ignoring major texts and inflating minor ones. I have my own leanings, both ones with historical pedigrees and those operating as largely novel projects, but this is an attempt to map out *anarchism* warts-and-all, not anarchism as I might like it to eventually sort out. I believe in providing people with accurate maps to expand their agency, and perhaps that will better inform conversations. Especially as so many new people interested in anarchism today are so disconnected from the prior culture and movement.
 
-One consequence of this approach is as I was compiling this my partner screamed "you can't include ___! he's a monster!" several times. I deeply despise a number of texts and writers included below (to say nothing of the ones I find tiresome or useless) and I can't in good conscience allow some issues to go without note. It matters quite a lot that someone is a snitch, fascist, or apologist for child rape. Other political traditions from marxism to right-libertarianism have at least as many ugly spots in their broad history, but it's imperative we be up-front about them.
+One consequence of this approach is as I was compiling this my partner screamed "you can't include \_\_\_! he's a monster!" several times. I deeply despise a number of texts and writers included below (to say nothing of the ones I find tiresome or useless) and I can't in good conscience allow some issues to go without note. It matters quite a lot that someone is a snitch, fascist, or apologist for child rape. Other political traditions from marxism to right-libertarianism have at least as many ugly spots in their broad history, but it's imperative we be up-front about them.
 
 This also involves a dance around whether people that explicitly rejected identification as anarchists should be included. I have included only two, Stirner and Bookchin, because they have vast longstanding and quite active influences well beyond all other non-anarchists. However I believe it is wildly dishonest and disrespectful to the dead to classify them as something they rejected. I have also provided some very limited addendum sections on particularly relevant modern marxist and ancap texts to avoid leaving people out to sea in terms of surrounding context.
 
@@ -32,7 +33,9 @@ Some token residue of modesty prevents me from including any of my own works, bu
 There are many 'missing sections' (like short intros, black anarchism, interpersonal ethics, etc) where there aren't classic *books* per se to be linked, but where much of what there is of importance/influence is already downloadable directly in the zine library above. Zines > books. I'm also sure I forgot stuff in the couple hours I've given to this. It's on github so you can fork the repo and make your own with all the shit you hate me for not including.
 
 
+
 ### Basically MOST Expected Reading In The Modern Movement
+
 (READ THESE ABSOLUTELY NO MATTER WHAT, THE REST IS JUST THEORY WANKERY)
 
 Why Misogynists Make Great Informants
@@ -54,6 +57,7 @@ Continuing Appeal Of Nationalism
 
 
 
+
 ### Good Intro Books
 
 The Black Bloc Papers
@@ -65,9 +69,11 @@ From Democracy To Freedom
 
 
 
-### Movement Histories 
+
+### Movement Histories
 
 For now I'm skipping *history* books of anarchism, since that's the vast majority of anarchist texts and everyone's library. There are just too damn many good books to list and we'd be here all day. I always advise brand new people to read Goldman's Living My Life since it's super easy to read and captures how the radical scene in the 1890s is just like the radical punk scene today. Abel Paz' Durruti is great fun on the spanish civil war. Robert Graham does the best historical compilations of writing. We're blessed today with a ton of better books on histories of anarchists outside the west, but yeesh, would take forever. Until I have time to go through my bookcases and pick the best or most important history ones, see the histories section of the zines above.
+
 
 
 ### General Classic Theory
@@ -83,6 +89,7 @@ Revolution and Other Writings - Gustav Landauer
 God and the State - Bakunin
 
 
+
 ### General Modern Theory
 
 The Possibility Of Cooperation - Michael Taylor
@@ -91,7 +98,7 @@ Utopia Of Rules - Graeber
 
 Debt - Graeber
 
-The Dawn of Everything - Graeber & Wengrow
+The Dawn of Everything - Graeber \& Wengrow
 
 Seeing Like A State - James C Scott
 
@@ -114,7 +121,8 @@ Home Rule - Nandita Sharma
 
 
 
-### Post-left Anarchy & Insurrectionary Anarchy
+
+### Post-left Anarchy \& Insurrectionary Anarchy
 
 Armed Joy
 
@@ -141,6 +149,7 @@ Murder Of Crows (mag)
 
 
 
+
 ### Anarchist Communism Classic
 
 ABCs of Anarchism - Berkman
@@ -148,6 +157,7 @@ ABCs of Anarchism - Berkman
 What Is Anarcho-communism - Berkman
 
 At The Cafe - Malatesta
+
 
 
 
@@ -161,11 +171,13 @@ Anarcho-syndicalism: Theory and Practice - Rudolf Rocker
 
 
 
+
 ### Anarcho-Syndicalism Modern
 
 Fighting for ourselves: Anarcho-syndicalism and the class struggle - Solidarity Federation
 
 An Anarchist FAQ - Iain McKay
+
 
 
 ### Platformism Clasic
@@ -181,7 +193,9 @@ Towards a Fresh Revolution
 
 
 
+
 ### Platformism Modern
+
 
 
 Black Flame - COWRITTEN BY A FASCIST
@@ -194,7 +208,8 @@ The Global Influence of Platformism Today - NEFAC
 
 
 
-(Black Flame was written by a fascist entryist later exposed by antifascists and every copy was pulped by its anarchist publisher, but before that was revealed there was no more influential modern platformist text and it was required reading by Black Rose. most other relevant texts are just histories or proclamations of platformist or platformist-adjacent organizations like Love & Rage, NEFAC, Black Rose, Worker's Solidarity Movement, Zabalaza, Federação Anarquista Gaúcha, etc... which NEFAC above text at least sketches)
+(Black Flame was written by a fascist entryist later exposed by antifascists and every copy was pulped by its anarchist publisher, but before that was revealed there was no more influential modern platformist text and it was required reading by Black Rose. most other relevant texts are just histories or proclamations of platformist or platformist-adjacent organizations like Love \& Rage, NEFAC, Black Rose, Worker's Solidarity Movement, Zabalaza, Federação Anarquista Gaúcha, etc... which NEFAC above text at least sketches)
+
 
 
 ### Mutualism / Left-Market Classic
@@ -212,6 +227,7 @@ What Is Mutualism - Clarence Lee Swartz
 
 
 
+
 ### Mutualism / Left-Market Modern
 
 The Iron Fist Behind the Invisible Hand - Kevin Carson
@@ -220,7 +236,7 @@ Studies In Mutualist Political Economy - Kevin Carson
 
 Organization Theory - Kevin Carson
 
-Markets Not Capitalism [compilation]
+Markets Not Capitalism \[compilation]
 
 Homebrew Industrial Revolution - Kevin Carson
 
@@ -228,7 +244,8 @@ Exodus - Kevin Carson
 
 
 
-(Proudhon may have launched anarchism, but he was a disgusting anti-semite misogynist. Markets Not Capitalism was originally geared primarily to persuade right-libertarians and, as a collection of highly varying writings from a wildly disparate writers, the book includes the noxious Brad Spangler, who was later revealed to be a child rapist, the book remains historically influential and sold by AK Press & Autonomedia, but that inclusion is a sharp downside. Both de Cleyre and Carson ultimately identified as 'without adjectives', neither rejected markets. C4SS has numerous followups but not of comparable historical import, they're working on a revision named 'Markets AGAINST Capitalism' without Spangler.)
+(Proudhon may have launched anarchism, but he was a disgusting anti-semite misogynist. Markets Not Capitalism was originally geared primarily to persuade right-libertarians and, as a collection of highly varying writings from a wildly disparate writers, the book includes the noxious Brad Spangler, who was later revealed to be a child rapist, the book remains historically influential and sold by AK Press \& Autonomedia, but that inclusion is a sharp downside. Both de Cleyre and Carson ultimately identified as 'without adjectives', neither rejected markets. C4SS has numerous followups but not of comparable historical import, they're working on a revision named 'Markets AGAINST Capitalism' without Spangler.)
+
 
 
 ### Christian Anarchism Classic
@@ -244,6 +261,7 @@ Loaves and Fishes - Dorthy Day
 
 
 
+
 ### Christian Anarchism Modern
 
 The Book Of Ammon - Ammon Hennacy
@@ -251,11 +269,12 @@ The Book Of Ammon - Ammon Hennacy
 Anarchy and Christianity - Jacques Ellul
 
 
-### Primitivism And General Anticiv 
+
+### Primitivism And General Anticiv
 
 The Technological Society - Jacques Ellul
 
-The Monkey Wrench Gang - Edward Abbey *
+The Monkey Wrench Gang - Edward Abbey \*
 
 Against His-story, Against Leviathan - Freddy Perlman
 
@@ -276,6 +295,7 @@ Uncivilized: the best of Green Anarchy
 (Ellul is the early fork point between primitivism and christian anarchism and could be shelved in either section. Edward Abbey was a virulent reactionary racist homophobe who most would casually classify as a fascist today. Zerzan came from marxist roots and propagated the term 'primitivism' and it's impossible to overstate his influence and fame more broadly. Always pirate Green Anarchy rather than funding LBC which still publishes the project of a catholic alt-right edgelord who served as the mouthpiece of a genocidal anti-anarchist group, ITS, that tried to murder anarchists)
 
 
+
 ### Social Ecology
 
 Post-Scarcity Anarchism - Bookchin
@@ -284,11 +304,12 @@ The Ecology of Freedom - Bookchin
 
 Social Anarchism or Lifestyle Anarchism - Bookchin
 
-Ecofascism - Staudimire & Biehl
+Ecofascism - Staudimire \& Biehl
 
 
 
-(I've included nothing from Bookchin after his explicit denunciation of anarchism. Biehl also ceased identification as an anarchist. Social Anarchism or Lifestyle Anarchism and the rest of his fight with Bob Black was a *massive* embarassment and painfully cringe to delve into, but also the biggest anarchist drama of the 90s. I'm putting Ocalan in the Marxism & fellow travellers section.)
+(I've included nothing from Bookchin after his explicit denunciation of anarchism. Biehl also ceased identification as an anarchist. Social Anarchism or Lifestyle Anarchism and the rest of his fight with Bob Black was a *massive* embarassment and painfully cringe to delve into, but also the biggest anarchist drama of the 90s. I'm putting Ocalan in the Marxism \& fellow travellers section.)
+
 
 
 ### Egoism
@@ -296,8 +317,6 @@ Ecofascism - Staudimire & Biehl
 The Unique And It's Property - Stirner
 
 Stirner's Critics - Stirner
-
-The Anarchists: A Picture of Civilization at the Close of the Nineteenth Century - John Henry Mackay
 
 Toward the Creative Nothing - Renzo Novatore
 
@@ -312,13 +331,14 @@ Willful Disobedience - Wolfi Landstreicher
 (i've included Stirner's work here, despite Stirner never identifying as an anarchist and mocking them, because it's not like you can read the anarchist currents of the egoist tradition without him. Wolfi's recent translactions are superior but make sure you don't buy them through the fascist publisher. Also heads up that Wolfi was exposed as having defended child rape in the 80s although a minority contest the passage. Ragnar Redbeard's Might Is Right was unfortunately influential in many egoist spaces and cited/republished by some prominent ones, but is so flagrantly over-the-top fascist it would be beyond absurd to directly list it.)
 
 
-### Particularly Notable Non-Anarchist Leftist Influences & Occasional Fellow Travellers
+
+### Particularly Notable Non-Anarchist Leftist Influences \& Occasional Fellow Travellers
 
 Society Of The Spectacle - Guy Debord
 
 The Revolution of Everyday Life - Raoul Vaneigem
 
-Caliban & The Witch - Silvia Federici
+Caliban \& The Witch - Silvia Federici
 
 The Many Headed Hydra - Linebaugh and Rediker
 
@@ -328,7 +348,7 @@ The Coming Insurrection - Invisible Committee
 
 Theory Of Bloom - Tiqqun
 
-Empire - Hardt & Negri
+Empire - Hardt \& Negri
 
 Everything Must Go!: The Abolition of Value - Giles Dauve and someone
 
@@ -336,14 +356,15 @@ Nihilist Communism - Monsieur Dupont
 
 Democratic Confederalism - Abdullah Ocalan
 
-Capital As Power - Bichler & Nitzan
+Capital As Power - Bichler \& Nitzan
 
 
 
 (Because some currents in anarchism see themselves as also contigous with communalist, communist or marxist discourses this list could grow to include the rest of the wider left. The above is pruned to cover texts influential in anarchist punk or activist spaces, that is to say the movement, *not* by way of academia. The academic left has its own vast discourse and bibliography which any college will push, with certain regular figures and fixtures that operate as mere totems in different fields and rarely move beyond legitmizing stray citations or invocations, semiotext's early era being the exception.)
 
 
-### "Nihilist" Anarchism *
+
+### "Nihilist" Anarchism \*
 
 Pistols Drawn
 
@@ -357,10 +378,11 @@ Atentat
 
 
 
-(* severely misnamed current invented/redefined in the last decade stealing valor from a completely different movement of russian hypermodernist social democrats and retroactively constructing a supposed tradition from sparse disconnected uses of the term by a few egoists. The most influential texts are not about true epistemic or moral nihilism, just pretty standard postleft stuff plus some tacked-on critiques of hope that many anarchists who long used "nihilism" as an epithet already shared, a complete mess of different philosophical claims and currents held together only by a shared aesthetic, only Pistols Drawn and Attentat really cover anything like "nihilism" and are also the least influential, relevant, or tolerable. see 325 for a distinct more european current focused on standard insurrection and anti-organizationalism. When it comes to buying, see the caveat in the egoist section re the ongoing boycott of LBC by anarchists. Their texts can be pirated on archive.org tho.)
+(\* severely misnamed current invented/redefined in the last decade stealing valor from a completely different movement of russian hypermodernist social democrats and retroactively constructing a supposed tradition from sparse disconnected uses of the term by a few egoists. The most influential texts are not about true epistemic or moral nihilism, just pretty standard postleft stuff plus some tacked-on critiques of hope that many anarchists who long used "nihilism" as an epithet already shared, a complete mess of different philosophical claims and currents held together only by a shared aesthetic, only Pistols Drawn and Attentat really cover anything like "nihilism" and are also the least influential, relevant, or tolerable. see 325 for a distinct more european current focused on standard insurrection and anti-organizationalism. When it comes to buying, see the caveat in the egoist section re the ongoing boycott of LBC by anarchists. Their texts can be pirated on archive.org tho.)
 
 
-### "Anarcho"-Capitalism *
+
+### "Anarcho"-Capitalism \*
 
 The Ethics Of Liberty - Murray Rothbard
 
@@ -380,4 +402,5 @@ Crypto Anarchy and Virtual Communities -- Timothy C May
 
 
 
-(* severely divergent political movement started in the 50s with only thin initial connections to Spooner, Tucker, and Goldman. rothbard bragged that he was stealing the term "anarchism" from what he thought was a dead movement. however later had surprisingly many crossovers with egoists, mutualists, and social ecologists. largely marked by supreme myopia of social conditions and power relations more obscured than a policeman's gun. that which wasn't already rabid apologia for power has almost completely devolved into reaction and crypto-fascism or otherwise tolerating nationalism, racist boogs, chuds, etc, see hans hermann hoppe and the later rothbard for the roots of the worst fascist stuff. what principled holdouts remain in academia are perpetually undermined by their right-wing cultural and social connections.)
+(\* severely divergent political movement started in the 50s with only thin initial connections to Spooner, Tucker, and Goldman. rothbard bragged that he was stealing the term "anarchism" from what he thought was a dead movement. however later had surprisingly many crossovers with egoists, mutualists, and social ecologists. largely marked by supreme myopia of social conditions and power relations more obscured than a policeman's gun. that which wasn't already rabid apologia for power has almost completely devolved into reaction and crypto-fascism or otherwise tolerating nationalism, racist boogs, chuds, etc, see hans hermann hoppe and the later rothbard for the roots of the worst fascist stuff. what principled holdouts remain in academia are perpetually undermined by their right-wing cultural and social connections.)
+
