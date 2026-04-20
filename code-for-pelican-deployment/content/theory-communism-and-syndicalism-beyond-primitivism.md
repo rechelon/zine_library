@@ -1,6 +1,6 @@
 ---
 Title: Beyond Primitivism
-Date: 2026-02-04
+Date: 2026-04-19
 Slug: beyond-primitivism
 Category: Theory
 Tags: communism_and_syndicalism

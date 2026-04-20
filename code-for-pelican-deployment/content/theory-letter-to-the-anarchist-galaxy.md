@@ -1,6 +1,6 @@
 ---
 Title: Letter to the Anarchist Galaxy
-Date: 2026-02-04
+Date: 2026-04-19
 Slug: letter-to-the-anarchist-galaxy
 Category: Theory
 Tags: 

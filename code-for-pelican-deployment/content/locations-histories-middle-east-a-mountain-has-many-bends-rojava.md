@@ -1,6 +1,6 @@
 ---
 Title: A Mountain Has Many Bends, Rojava
-Date: 2026-02-04
+Date: 2026-04-19
 Slug: a-mountain-has-many-bends-rojava
 Category: Locations And Histories
 Tags: middle_east

@@ -1,6 +1,6 @@
 ---
 Title: A Whore's Dialogue
-Date: 2026-02-04
+Date: 2026-04-19
 Slug: a-whores-dialogue
 Category: Locations And Histories
 Tags: 

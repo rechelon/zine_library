@@ -1,6 +1,6 @@
 ---
 Title: Voting vs Direct Action
-Date: 2026-02-04
+Date: 2026-04-19
 Slug: voting-vs-direct-action
 Category: Basic Intros
 Tags: 

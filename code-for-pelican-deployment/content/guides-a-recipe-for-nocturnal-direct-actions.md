@@ -1,6 +1,6 @@
 ---
 Title: A Recipe For Nocturnal Direct Actions
-Date: 2026-02-04
+Date: 2026-04-19
 Slug: a-recipe-for-nocturnal-direct-actions
 Category: Guides
 Tags: 

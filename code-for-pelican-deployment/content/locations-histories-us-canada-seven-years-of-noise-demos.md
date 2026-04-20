@@ -1,6 +1,6 @@
 ---
 Title: Seven Years Of Noise Demos
-Date: 2026-02-04
+Date: 2026-04-19
 Slug: seven-years-of-noise-demos
 Category: Locations And Histories
 Tags: us_and_canada

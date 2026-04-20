@@ -1,6 +1,6 @@
 ---
 Title: It's Vacant Take It
-Date: 2026-02-04
+Date: 2026-04-19
 Slug: its-vacant-take-it
 Category: Guides
 Tags: 

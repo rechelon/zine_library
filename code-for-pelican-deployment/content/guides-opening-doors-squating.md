@@ -1,6 +1,6 @@
 ---
 Title: Opening Doors, Squating
-Date: 2026-02-04
+Date: 2026-04-19
 Slug: opening-doors-squating
 Category: Guides
 Tags: 

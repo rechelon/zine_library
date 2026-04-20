@@ -1,6 +1,6 @@
 ---
 Title: A Thousand Rioters
-Date: 2026-02-04
+Date: 2026-04-19
 Slug: a-thousand-rioters
 Category: Theory
 Tags: communism_and_syndicalism

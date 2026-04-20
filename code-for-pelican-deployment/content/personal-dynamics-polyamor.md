@@ -1,6 +1,6 @@
 ---
 Title: PolyAmor
-Date: 2026-02-04
+Date: 2026-04-19
 Slug: polyamor
 Category: Personal Dynamics
 Tags: 

@@ -1,6 +1,6 @@
 ---
 Title: Subversive Submissive 1
-Date: 2026-02-04
+Date: 2026-04-19
 Slug: subversive-submissive-1
 Category: Personal Dynamics
 Tags: 

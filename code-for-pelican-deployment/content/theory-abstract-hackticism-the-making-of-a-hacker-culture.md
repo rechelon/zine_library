@@ -1,6 +1,6 @@
 ---
 Title: Abstract Hackticism, The Making of a Hacker Culture
-Date: 2026-02-04
+Date: 2026-04-19
 Slug: abstract-hackticism-the-making-of-a-hacker-culture
 Category: Theory
 Tags: 

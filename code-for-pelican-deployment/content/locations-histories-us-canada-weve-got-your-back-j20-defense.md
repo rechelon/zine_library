@@ -1,6 +1,6 @@
 ---
 Title: We've Got Your Back, J20 Defense
-Date: 2026-02-04
+Date: 2026-04-19
 Slug: weve-got-your-back-j20-defense
 Category: Locations And Histories
 Tags: us_and_canada

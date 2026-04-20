@@ -1,6 +1,6 @@
 ---
 Title: Against Silence, Primer On Antifascist Trauma
-Date: 2026-02-04
+Date: 2026-04-19
 Slug: against-silence-primer-on-antifascist-trauma
 Category: Theory
 Tags: antifascism

@@ -1,6 +1,6 @@
 ---
 Title: Gender Abolition
-Date: 2026-02-04
+Date: 2026-04-19
 Slug: gender-abolition
 Category: Theory
 Tags: feminism_and_queer_theory

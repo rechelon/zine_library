@@ -1,6 +1,6 @@
 ---
 Title: Devil's Night
-Date: 2026-02-04
+Date: 2026-04-19
 Slug: devils-night
 Category: Locations And Histories
 Tags: europe

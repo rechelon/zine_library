@@ -1,6 +1,6 @@
 ---
 Title: How Nonviolence Protects The State
-Date: 2026-02-04
+Date: 2026-04-19
 Slug: how-nonviolence-protects-the-state
 Category: Theory
 Tags: 

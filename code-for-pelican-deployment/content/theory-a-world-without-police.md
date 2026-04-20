@@ -1,6 +1,6 @@
 ---
 Title: A World Without Police
-Date: 2026-02-04
+Date: 2026-04-19
 Slug: a-world-without-police
 Category: Theory
 Tags: 

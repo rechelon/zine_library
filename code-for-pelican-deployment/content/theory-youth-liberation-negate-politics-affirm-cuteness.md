@@ -1,6 +1,6 @@
 ---
 Title: Negate Politics Affirm Cuteness
-Date: 2026-02-04
+Date: 2026-04-19
 Slug: negate-politics-affirm-cuteness
 Category: Theory
 Tags: youth_liberation

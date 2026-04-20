@@ -1,6 +1,6 @@
 ---
 Title: Shock of Victory
-Date: 2026-02-04
+Date: 2026-04-19
 Slug: shock-of-victory
 Category: Theory
 Tags: 

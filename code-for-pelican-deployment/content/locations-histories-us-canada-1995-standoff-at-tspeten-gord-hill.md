@@ -1,6 +1,6 @@
 ---
 Title: 1995 Standoff At Tspeten
-Date: 2026-02-04
+Date: 2026-04-19
 Slug: 1995-standoff-at-tspeten
 Category: Locations And Histories
 Tags: us_and_canada

@@ -1,6 +1,6 @@
 ---
 Title: Ukraine and the Future of Social Movements
-Date: 2026-02-04
+Date: 2026-04-19
 Slug: ukraine-and-the-future-of-social-movements
 Category: Locations And Histories
 Tags: europe

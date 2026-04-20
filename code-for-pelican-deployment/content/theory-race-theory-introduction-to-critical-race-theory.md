@@ -1,6 +1,6 @@
 ---
 Title: Introduction to Critical Race Theory
-Date: 2026-02-04
+Date: 2026-04-19
 Slug: introduction-to-critical-race-theory
 Category: Theory
 Tags: race_theory

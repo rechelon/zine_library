@@ -1,6 +1,6 @@
 ---
 Title: Grand Juries Tools of Repression
-Date: 2026-02-04
+Date: 2026-04-19
 Slug: grand-juries-tools-of-repression
 Category: Guides
 Tags: 

@@ -1,6 +1,6 @@
 ---
 Title: Cloak Dagger, Lockpicking
-Date: 2026-02-04
+Date: 2026-04-19
 Slug: cloak-dagger-lockpicking
 Category: Guides
 Tags: 

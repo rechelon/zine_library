@@ -1,6 +1,6 @@
 ---
 Title: Mythology Of Work
-Date: 2026-02-04
+Date: 2026-04-19
 Slug: mythology-of-work
 Category: Basic Intros
 Tags: 

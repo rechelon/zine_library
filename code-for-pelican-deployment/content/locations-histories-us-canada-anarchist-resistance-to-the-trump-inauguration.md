@@ -1,6 +1,6 @@
 ---
 Title: Anarchist Resistance To The Trump Inauguration
-Date: 2026-02-04
+Date: 2026-04-19
 Slug: anarchist-resistance-to-the-trump-inauguration
 Category: Locations And Histories
 Tags: us_and_canada

@@ -1,6 +1,6 @@
 ---
 Title: Troublemakers Guide
-Date: 2026-02-04
+Date: 2026-04-19
 Slug: troublemakers-guide
 Category: Guides
 Tags: 

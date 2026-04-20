@@ -1,6 +1,6 @@
 ---
 Title: A Rebel Worker's Organizing Handbook
-Date: 2026-02-04
+Date: 2026-04-19
 Slug: a-rebel-workers-organizing-handbook
 Category: Guides
 Tags: 

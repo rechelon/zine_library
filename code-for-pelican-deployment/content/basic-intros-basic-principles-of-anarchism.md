@@ -1,6 +1,6 @@
 ---
 Title: Basic Principles of Anarchism
-Date: 2026-02-04
+Date: 2026-04-19
 Slug: basic-principles-of-anarchism
 Category: Basic Intros
 Tags: 

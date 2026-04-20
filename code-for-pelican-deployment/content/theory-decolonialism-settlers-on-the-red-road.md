@@ -1,6 +1,6 @@
 ---
 Title: Settlers on the Red Road
-Date: 2026-02-04
+Date: 2026-04-19
 Slug: settlers-on-the-red-road
 Category: Theory
 Tags: decolonialism

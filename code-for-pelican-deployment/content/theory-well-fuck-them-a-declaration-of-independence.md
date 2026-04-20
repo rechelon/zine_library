@@ -1,6 +1,6 @@
 ---
 Title: Well Fuck Them, A Declaration of Independence
-Date: 2026-02-04
+Date: 2026-04-19
 Slug: well-fuck-them-a-declaration-of-independence
 Category: Theory
 Tags: 

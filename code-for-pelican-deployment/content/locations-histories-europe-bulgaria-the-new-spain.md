@@ -1,6 +1,6 @@
 ---
 Title: Bulgaria, The New Spain
-Date: 2026-02-04
+Date: 2026-04-19
 Slug: bulgaria-the-new-spain
 Category: Locations And Histories
 Tags: europe

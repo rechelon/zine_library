@@ -1,6 +1,6 @@
 ---
 Title: Rethinking Identity Safety and Appropriation
-Date: 2026-02-04
+Date: 2026-04-19
 Slug: rethinking-identity-safety-and-appropriation
 Category: Theory
 Tags: 

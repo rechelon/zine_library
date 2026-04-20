@@ -1,6 +1,6 @@
 ---
 Title: What The Grenada Revolution Can Teach Us
-Date: 2026-02-04
+Date: 2026-04-19
 Slug: what-the-grenada-revolution-can-teach-us
 Category: Theory
 Tags: communism_and_syndicalism

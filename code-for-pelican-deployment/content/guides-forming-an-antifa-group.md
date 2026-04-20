@@ -1,6 +1,6 @@
 ---
 Title: Forming an Antifa Group
-Date: 2026-02-04
+Date: 2026-04-19
 Slug: forming-an-antifa-group
 Category: Guides
 Tags: 

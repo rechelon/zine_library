@@ -1,6 +1,6 @@
 ---
 Title: Tips on Staying Calm While Sitting In Jail
-Date: 2026-02-04
+Date: 2026-04-19
 Slug: tips-on-staying-calm-while-sitting-in-jail
 Category: Guides
 Tags: 

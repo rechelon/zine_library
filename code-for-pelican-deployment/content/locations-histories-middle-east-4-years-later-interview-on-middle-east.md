@@ -1,6 +1,6 @@
 ---
 Title: 4 Years Later, Interview on Middle East
-Date: 2026-02-04
+Date: 2026-04-19
 Slug: 4-years-later-interview-on-middle-east
 Category: Locations And Histories
 Tags: middle_east

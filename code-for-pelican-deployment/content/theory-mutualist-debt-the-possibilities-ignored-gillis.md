@@ -1,6 +1,6 @@
 ---
 Title: Debt - The Possibilities Ignored
-Date: 2026-02-04
+Date: 2026-04-19
 Slug: debt-the-possibilities-ignored
 Category: Theory
 Tags: mutualist

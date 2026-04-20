@@ -1,6 +1,6 @@
 ---
 Title: Just A Downturn, Decline of Sloanism
-Date: 2026-02-04
+Date: 2026-04-19
 Slug: just-a-downturn-decline-of-sloanism
 Category: Theory
 Tags: mutualist

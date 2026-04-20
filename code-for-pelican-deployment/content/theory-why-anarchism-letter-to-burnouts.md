@@ -1,6 +1,6 @@
 ---
 Title: Why Anarchism, Letter To Burnouts
-Date: 2026-02-04
+Date: 2026-04-19
 Slug: why-anarchism-letter-to-burnouts
 Category: Theory
 Tags: 

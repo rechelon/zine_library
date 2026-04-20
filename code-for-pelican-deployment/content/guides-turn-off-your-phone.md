@@ -1,6 +1,6 @@
 ---
 Title: Turn Off Your Phone
-Date: 2026-02-04
+Date: 2026-04-19
 Slug: turn-off-your-phone
 Category: Guides
 Tags: 

@@ -1,6 +1,6 @@
 ---
 Title: Organizations versus getting shit done
-Date: 2026-02-04
+Date: 2026-04-19
 Slug: organizations-versus-getting-shit-done
 Category: Theory
 Tags: postleft

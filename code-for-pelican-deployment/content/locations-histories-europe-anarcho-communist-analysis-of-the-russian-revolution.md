@@ -1,6 +1,6 @@
 ---
 Title: Anarcho Communist Analysis of the Russian Revolution
-Date: 2026-02-04
+Date: 2026-04-19
 Slug: anarcho-communist-analysis-of-the-russian-revolution
 Category: Locations And Histories
 Tags: europe

@@ -1,6 +1,6 @@
 ---
 Title: Political Prehistory of Love and Rage
-Date: 2026-02-04
+Date: 2026-04-19
 Slug: political-prehistory-of-love-and-rage
 Category: Locations And Histories
 Tags: us_and_canada

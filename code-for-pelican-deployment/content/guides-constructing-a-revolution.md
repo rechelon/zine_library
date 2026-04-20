@@ -1,6 +1,6 @@
 ---
 Title: Constructing a Revolution
-Date: 2026-02-04
+Date: 2026-04-19
 Slug: constructing-a-revolution
 Category: Guides
 Tags: 

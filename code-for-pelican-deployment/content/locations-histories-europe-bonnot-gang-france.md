@@ -1,6 +1,6 @@
 ---
 Title: Bonnot Gang, France
-Date: 2026-02-04
+Date: 2026-04-19
 Slug: bonnot-gang-france
 Category: Locations And Histories
 Tags: europe

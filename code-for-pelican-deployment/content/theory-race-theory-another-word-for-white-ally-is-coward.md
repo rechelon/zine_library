@@ -1,6 +1,6 @@
 ---
 Title: Another Word For White Ally Is Coward
-Date: 2026-02-04
+Date: 2026-04-19
 Slug: another-word-for-white-ally-is-coward
 Category: Theory
 Tags: race_theory

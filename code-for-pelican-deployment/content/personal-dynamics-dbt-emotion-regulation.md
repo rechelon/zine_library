@@ -1,6 +1,6 @@
 ---
 Title: DBT Emotion Regulation
-Date: 2026-02-04
+Date: 2026-04-19
 Slug: dbt-emotion-regulation
 Category: Personal Dynamics
 Tags: 

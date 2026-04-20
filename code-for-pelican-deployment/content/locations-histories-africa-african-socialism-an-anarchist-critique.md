@@ -1,6 +1,6 @@
 ---
 Title: African Socialism An Anarchist Critique
-Date: 2026-02-04
+Date: 2026-04-19
 Slug: african-socialism-an-anarchist-critique
 Category: Locations And Histories
 Tags: africa

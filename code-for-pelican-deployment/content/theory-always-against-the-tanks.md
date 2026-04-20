@@ -1,6 +1,6 @@
 ---
 Title: Always Against The Tanks
-Date: 2026-02-04
+Date: 2026-04-19
 Slug: always-against-the-tanks
 Category: Theory
 Tags: 

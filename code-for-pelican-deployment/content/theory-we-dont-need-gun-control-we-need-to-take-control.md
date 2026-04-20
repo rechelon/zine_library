@@ -1,6 +1,6 @@
 ---
 Title: We Dont Need Gun Control We Need To Take Control
-Date: 2026-02-04
+Date: 2026-04-19
 Slug: we-dont-need-gun-control-we-need-to-take-control
 Category: Theory
 Tags: 

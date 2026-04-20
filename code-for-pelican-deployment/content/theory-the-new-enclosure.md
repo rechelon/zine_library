@@ -1,6 +1,6 @@
 ---
 Title: The New Enclosure
-Date: 2026-02-04
+Date: 2026-04-19
 Slug: the-new-enclosure
 Category: Theory
 Tags: 

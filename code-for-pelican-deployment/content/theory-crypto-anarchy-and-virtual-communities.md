@@ -1,6 +1,6 @@
 ---
 Title: Crypto Anarchy and Virtual Communities
-Date: 2026-02-04
+Date: 2026-04-19
 Slug: crypto-anarchy-and-virtual-communities
 Category: Theory
 Tags: 

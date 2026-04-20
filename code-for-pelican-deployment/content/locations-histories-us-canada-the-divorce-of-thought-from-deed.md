@@ -1,6 +1,6 @@
 ---
 Title: The Divorce of Thought from Deed
-Date: 2026-02-04
+Date: 2026-04-19
 Slug: the-divorce-of-thought-from-deed
 Category: Locations And Histories
 Tags: us_and_canada

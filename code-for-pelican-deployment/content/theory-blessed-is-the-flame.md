@@ -1,6 +1,6 @@
 ---
 Title: Blessed Is The Flame
-Date: 2026-02-04
+Date: 2026-04-19
 Slug: blessed-is-the-flame
 Category: Theory
 Tags: 

@@ -1,6 +1,6 @@
 ---
 Title: Building Spaces
-Date: 2026-02-04
+Date: 2026-04-19
 Slug: building-spaces
 Category: Guides
 Tags: 

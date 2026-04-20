@@ -1,6 +1,6 @@
 ---
 Title: Contemporary Platformism
-Date: 2026-02-04
+Date: 2026-04-19
 Slug: contemporary-platformism
 Category: Theory
 Tags: communism_and_syndicalism

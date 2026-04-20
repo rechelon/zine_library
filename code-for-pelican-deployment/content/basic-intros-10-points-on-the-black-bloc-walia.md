@@ -1,6 +1,6 @@
 ---
 Title: 10 Points on the Black Bloc
-Date: 2026-02-04
+Date: 2026-04-19
 Slug: 10-points-on-the-black-bloc
 Category: Basic Intros
 Tags: 

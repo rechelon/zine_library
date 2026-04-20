@@ -1,6 +1,6 @@
 ---
 Title: Hidden Histories of Resistance, English Squats
-Date: 2026-02-04
+Date: 2026-04-19
 Slug: hidden-histories-of-resistance-english-squats
 Category: Locations And Histories
 Tags: europe

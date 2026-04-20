@@ -1,6 +1,6 @@
 ---
 Title: A Jewish Anarchist Refutation of the Hammer and Sickle
-Date: 2026-02-04
+Date: 2026-04-19
 Slug: a-jewish-anarchist-refutation-of-the-hammer-and-sickle
 Category: Theory
 Tags: 

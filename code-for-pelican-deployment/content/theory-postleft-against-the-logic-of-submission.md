@@ -1,6 +1,6 @@
 ---
 Title: Against The Logic of Submission
-Date: 2026-02-04
+Date: 2026-04-19
 Slug: against-the-logic-of-submission
 Category: Theory
 Tags: postleft

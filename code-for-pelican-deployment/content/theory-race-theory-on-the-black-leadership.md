@@ -1,6 +1,6 @@
 ---
 Title: On the Black Leadership
-Date: 2026-02-04
+Date: 2026-04-19
 Slug: on-the-black-leadership
 Category: Theory
 Tags: race_theory

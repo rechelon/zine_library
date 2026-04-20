@@ -1,6 +1,6 @@
 ---
 Title: Accomplices Not Allies
-Date: 2026-02-04
+Date: 2026-04-19
 Slug: accomplices-not-allies
 Category: Theory
 Tags: race_theory

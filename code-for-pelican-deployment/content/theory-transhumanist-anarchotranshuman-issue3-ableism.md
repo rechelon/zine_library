@@ -1,6 +1,6 @@
 ---
 Title: Anarchotranshuman Issue3 Ableism
-Date: 2026-02-04
+Date: 2026-04-19
 Slug: anarchotranshuman-issue3-ableism
 Category: Theory
 Tags: transhumanist

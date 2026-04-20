@@ -1,6 +1,6 @@
 ---
 Title: The Complete Manual of Pirate Radio
-Date: 2026-02-04
+Date: 2026-04-19
 Slug: the-complete-manual-of-pirate-radio
 Category: Guides
 Tags: 

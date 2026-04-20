@@ -1,6 +1,6 @@
 ---
 Title: A Useful Tool, Not A God
-Date: 2026-02-04
+Date: 2026-04-19
 Slug: a-useful-tool-not-a-god
 Category: Theory
 Tags: mutualist

@@ -1,6 +1,6 @@
 ---
 Title: Against Green Reactionaries
-Date: 2026-02-04
+Date: 2026-04-19
 Slug: against-green-reactionaries
 Category: Theory
 Tags: antifascism

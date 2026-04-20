@@ -1,6 +1,6 @@
 ---
 Title: Iron Fist Behind The Invisible Hand
-Date: 2026-02-04
+Date: 2026-04-19
 Slug: iron-fist-behind-the-invisible-hand
 Category: Theory
 Tags: mutualist

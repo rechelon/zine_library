@@ -1,6 +1,6 @@
 ---
 Title: Anarchist Communism its Basis and Principles
-Date: 2026-02-04
+Date: 2026-04-19
 Slug: anarchist-communism-its-basis-and-principles
 Category: Theory
 Tags: communism_and_syndicalism

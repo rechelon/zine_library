@@ -1,6 +1,6 @@
 ---
 Title: Society After State Capitalism
-Date: 2026-02-04
+Date: 2026-04-19
 Slug: society-after-state-capitalism
 Category: Theory
 Tags: mutualist

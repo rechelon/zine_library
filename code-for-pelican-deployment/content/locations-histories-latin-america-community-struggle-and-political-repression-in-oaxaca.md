@@ -1,6 +1,6 @@
 ---
 Title: Community Struggle and Political Repression in Oaxaca
-Date: 2026-02-04
+Date: 2026-04-19
 Slug: community-struggle-and-political-repression-in-oaxaca
 Category: Locations And Histories
 Tags: latin_america

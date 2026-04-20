@@ -1,6 +1,6 @@
 ---
 Title: Cameras Everywhere Safety Nowhere
-Date: 2026-02-04
+Date: 2026-04-19
 Slug: cameras-everywhere-safety-nowhere
 Category: Theory
 Tags: 

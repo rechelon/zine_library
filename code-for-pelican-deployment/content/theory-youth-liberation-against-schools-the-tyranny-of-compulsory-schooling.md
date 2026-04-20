@@ -1,6 +1,6 @@
 ---
 Title: Against Schools The Tyranny Of Compulsory Schooling
-Date: 2026-02-04
+Date: 2026-04-19
 Slug: against-schools-the-tyranny-of-compulsory-schooling
 Category: Theory
 Tags: youth_liberation

@@ -1,6 +1,6 @@
 ---
 Title: Dismantling The Boy's Club
-Date: 2026-02-04
+Date: 2026-04-19
 Slug: dismantling-the-boys-club
 Category: Theory
 Tags: feminism_and_queer_theory

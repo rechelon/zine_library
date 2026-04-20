@@ -1,6 +1,6 @@
 ---
 Title: Hungary in 56
-Date: 2026-02-04
+Date: 2026-04-19
 Slug: hungary-in-56
 Category: Locations And Histories
 Tags: europe

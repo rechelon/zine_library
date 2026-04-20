@@ -1,6 +1,6 @@
 ---
 Title: Be Water Set Fire, Dispatches from Minneapolis
-Date: 2026-02-04
+Date: 2026-04-19
 Slug: be-water-set-fire-dispatches-from-minneapolis
 Category: Locations And Histories
 Tags: us_and_canada

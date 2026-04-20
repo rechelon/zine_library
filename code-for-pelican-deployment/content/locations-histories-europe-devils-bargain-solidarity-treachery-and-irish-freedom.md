@@ -1,6 +1,6 @@
 ---
 Title: Devil's Bargain, Solidarity, Treachery And Irish Freedom
-Date: 2026-02-04
+Date: 2026-04-19
 Slug: devils-bargain-solidarity-treachery-and-irish-freedom
 Category: Locations And Histories
 Tags: europe

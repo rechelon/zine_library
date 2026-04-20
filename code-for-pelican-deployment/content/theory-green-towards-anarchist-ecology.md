@@ -1,6 +1,6 @@
 ---
 Title: Towards Anarchist Ecology
-Date: 2026-02-04
+Date: 2026-04-19
 Slug: towards-anarchist-ecology
 Category: Theory
 Tags: green

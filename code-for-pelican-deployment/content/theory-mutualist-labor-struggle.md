@@ -1,6 +1,6 @@
 ---
 Title: Labor Struggle
-Date: 2026-02-04
+Date: 2026-04-19
 Slug: labor-struggle
 Category: Theory
 Tags: mutualist

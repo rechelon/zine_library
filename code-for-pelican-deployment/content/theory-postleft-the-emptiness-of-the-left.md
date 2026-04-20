@@ -1,6 +1,6 @@
 ---
 Title: The Emptiness of the Left
-Date: 2026-02-04
+Date: 2026-04-19
 Slug: the-emptiness-of-the-left
 Category: Theory
 Tags: postleft

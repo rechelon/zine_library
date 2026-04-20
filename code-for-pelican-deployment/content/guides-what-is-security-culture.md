@@ -1,6 +1,6 @@
 ---
 Title: What Is Security Culture
-Date: 2026-02-04
+Date: 2026-04-19
 Slug: what-is-security-culture
 Category: Guides
 Tags: 

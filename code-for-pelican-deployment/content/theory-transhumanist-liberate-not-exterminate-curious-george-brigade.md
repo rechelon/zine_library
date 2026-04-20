@@ -1,6 +1,6 @@
 ---
 Title: Liberate Not Exterminate
-Date: 2026-02-04
+Date: 2026-04-19
 Slug: liberate-not-exterminate
 Category: Theory
 Tags: transhumanist

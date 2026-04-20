@@ -1,6 +1,6 @@
 ---
 Title: The Rose Has Thorns, Attacks Portland 2021
-Date: 2026-02-04
+Date: 2026-04-19
 Slug: the-rose-has-thorns-attacks-portland-2021
 Category: Locations And Histories
 Tags: us_and_canada

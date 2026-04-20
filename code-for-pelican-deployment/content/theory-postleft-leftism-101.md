@@ -1,6 +1,6 @@
 ---
 Title: Leftism 101
-Date: 2026-02-04
+Date: 2026-04-19
 Slug: leftism-101
 Category: Theory
 Tags: postleft

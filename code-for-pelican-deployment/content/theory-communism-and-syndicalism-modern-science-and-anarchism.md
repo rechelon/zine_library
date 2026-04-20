@@ -1,6 +1,6 @@
 ---
 Title: Modern Science and Anarchism
-Date: 2026-02-04
+Date: 2026-04-19
 Slug: modern-science-and-anarchism
 Category: Theory
 Tags: communism_and_syndicalism

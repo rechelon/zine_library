@@ -1,6 +1,6 @@
 ---
 Title: Voltairine de Cleyre
-Date: 2026-02-04
+Date: 2026-04-19
 Slug: voltairine-de-cleyre
 Category: Theory
 Tags: mutualist

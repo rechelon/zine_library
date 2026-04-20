@@ -1,6 +1,6 @@
 ---
 Title: 500 Years Indigenous Resistance
-Date: 2026-02-04
+Date: 2026-04-19
 Slug: 500-years-indigenous-resistance
 Category: Locations And Histories
 Tags: us_and_canada

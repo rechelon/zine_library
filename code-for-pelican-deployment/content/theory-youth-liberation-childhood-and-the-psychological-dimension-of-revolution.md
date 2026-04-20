@@ -1,6 +1,6 @@
 ---
 Title: Childhood and the Psychological Dimension of Revolution
-Date: 2026-02-04
+Date: 2026-04-19
 Slug: childhood-and-the-psychological-dimension-of-revolution
 Category: Theory
 Tags: youth_liberation

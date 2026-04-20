@@ -1,6 +1,6 @@
 ---
 Title: Organizing Social Spaces Relations
-Date: 2026-02-04
+Date: 2026-04-19
 Slug: organizing-social-spaces-relations
 Category: Personal Dynamics
 Tags: 

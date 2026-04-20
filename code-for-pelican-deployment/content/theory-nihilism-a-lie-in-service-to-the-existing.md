@@ -1,6 +1,6 @@
 ---
 Title: Nihilism A Lie In Service To The Existing
-Date: 2026-02-04
+Date: 2026-04-19
 Slug: nihilism-a-lie-in-service-to-the-existing
 Category: Theory
 Tags: 

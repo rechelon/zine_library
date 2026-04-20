@@ -1,6 +1,6 @@
 ---
 Title: A Field Guide To Strawmen, Sadie, Exile and Olympia's White Lies
-Date: 2026-02-04
+Date: 2026-04-19
 Slug: a-field-guide-to-strawmen-sadie-exile-and-olympias-white-lies
 Category: Theory
 Tags: antifascism

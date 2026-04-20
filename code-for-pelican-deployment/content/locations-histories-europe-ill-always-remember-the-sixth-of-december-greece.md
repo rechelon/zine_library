@@ -1,6 +1,6 @@
 ---
 Title: I'll Always Remember The Sixth Of December, Greece
-Date: 2026-02-04
+Date: 2026-04-19
 Slug: ill-always-remember-the-sixth-of-december-greece
 Category: Locations And Histories
 Tags: europe

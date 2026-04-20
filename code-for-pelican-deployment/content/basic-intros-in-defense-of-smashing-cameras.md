@@ -1,6 +1,6 @@
 ---
 Title: In Defense Of Smashing Cameras
-Date: 2026-02-04
+Date: 2026-04-19
 Slug: in-defense-of-smashing-cameras
 Category: Basic Intros
 Tags: 

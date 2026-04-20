@@ -1,6 +1,6 @@
 ---
 Title: Street Transvestite Action Revolutionaries
-Date: 2026-02-04
+Date: 2026-04-19
 Slug: street-transvestite-action-revolutionaries
 Category: Theory
 Tags: feminism_and_queer_theory

@@ -1,6 +1,6 @@
 ---
 Title: Of Indiscriminate Attacks and Wild Reactions
-Date: 2026-02-04
+Date: 2026-04-19
 Slug: of-indiscriminate-attacks-and-wild-reactions
 Category: Theory
 Tags: green

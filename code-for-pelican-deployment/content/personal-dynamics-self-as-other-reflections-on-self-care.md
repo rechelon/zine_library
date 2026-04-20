@@ -1,6 +1,6 @@
 ---
 Title: Self as Other Reflections on Self Care
-Date: 2026-02-04
+Date: 2026-04-19
 Slug: self-as-other-reflections-on-self-care
 Category: Personal Dynamics
 Tags: 

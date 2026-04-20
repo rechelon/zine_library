@@ -1,6 +1,6 @@
 ---
 Title: Recent History of Anarchist Struggle in NYC
-Date: 2026-02-04
+Date: 2026-04-19
 Slug: recent-history-of-anarchist-struggle-in-nyc
 Category: Locations And Histories
 Tags: us_and_canada

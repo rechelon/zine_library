@@ -1,6 +1,6 @@
 ---
 Title: Thermidor of the Progerssives
-Date: 2026-02-04
+Date: 2026-04-19
 Slug: thermidor-of-the-progerssives
 Category: Theory
 Tags: mutualist

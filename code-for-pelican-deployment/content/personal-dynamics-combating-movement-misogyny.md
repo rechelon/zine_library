@@ -1,6 +1,6 @@
 ---
 Title: Combating Movement Misogyny
-Date: 2026-02-04
+Date: 2026-04-19
 Slug: combating-movement-misogyny
 Category: Personal Dynamics
 Tags: 

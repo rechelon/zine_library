@@ -17,13 +17,13 @@
 
             <div class="tile-meta">
                 {% if article.category %}
-                  <a href="{{SITEURL }}/category/{{article.category}}" >
+                  <a href="{{SITEURL }}/{{article.category.url}}" >
                   <span class="tile-category">{{ article.category }}</span>
                   </a>
                 {% endif %}
                 {% if article.tags %}
                     {% for tag in article.tags %}
-                    <a href="{{SITEURL }}/tag/{{tag}}" ><span class="tile-tag">{{ tag }}</span></a>
+                    <a href="{{SITEURL }}/tag/{{tag}}.html" ><span class="tile-tag">{{ tag }}</span></a>
                     {% endfor %}
                 {% endif %}
             </div>

@@ -1,6 +1,6 @@
 ---
 Title: Resisting Arrest, Specific to Canada
-Date: 2026-02-04
+Date: 2026-04-19
 Slug: resisting-arrest-specific-to-canada
 Category: Guides
 Tags: 

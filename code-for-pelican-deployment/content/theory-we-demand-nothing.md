@@ -1,6 +1,6 @@
 ---
 Title: We Demand Nothing
-Date: 2026-02-04
+Date: 2026-04-19
 Slug: we-demand-nothing
 Category: Theory
 Tags: 

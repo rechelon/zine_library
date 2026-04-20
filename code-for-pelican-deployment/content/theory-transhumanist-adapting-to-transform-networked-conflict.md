@@ -1,6 +1,6 @@
 ---
 Title: Adapting to Transform Networked Conflict
-Date: 2026-02-04
+Date: 2026-04-19
 Slug: adapting-to-transform-networked-conflict
 Category: Theory
 Tags: transhumanist

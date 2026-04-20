@@ -1,6 +1,6 @@
 ---
 Title: 10 Steps For Setting Up A Blockade
-Date: 2026-02-04
+Date: 2026-04-19
 Slug: 10-steps-for-setting-up-a-blockade
 Category: Guides
 Tags: 

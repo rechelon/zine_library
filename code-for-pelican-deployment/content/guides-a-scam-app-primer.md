@@ -1,6 +1,6 @@
 ---
 Title: A Scam App Primer
-Date: 2026-02-04
+Date: 2026-04-19
 Slug: a-scam-app-primer
 Category: Guides
 Tags: 

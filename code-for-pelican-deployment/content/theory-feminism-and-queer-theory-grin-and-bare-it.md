@@ -1,6 +1,6 @@
 ---
 Title: Grin and Bare It
-Date: 2026-02-04
+Date: 2026-04-19
 Slug: grin-and-bare-it
 Category: Theory
 Tags: feminism_and_queer_theory

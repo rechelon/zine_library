@@ -1,6 +1,6 @@
 ---
 Title: Xenofeminism, A Politics for Alienation
-Date: 2026-02-04
+Date: 2026-04-19
 Slug: xenofeminism-a-politics-for-alienation
 Category: Theory
 Tags: transhumanist

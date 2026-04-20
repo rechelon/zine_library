@@ -1,6 +1,6 @@
 ---
 Title: Against The Logic Of The Guillotine
-Date: 2026-02-04
+Date: 2026-04-19
 Slug: against-the-logic-of-the-guillotine
 Category: Basic Intros
 Tags: 

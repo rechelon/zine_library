@@ -1,6 +1,6 @@
 ---
 Title: What to the Slave is the 4th
-Date: 2026-02-04
+Date: 2026-04-19
 Slug: what-to-the-slave-is-the-4th
 Category: Theory
 Tags: race_theory

@@ -1,6 +1,6 @@
 ---
 Title: Why I Left The PSL or the DSA or
-Date: 2026-02-04
+Date: 2026-04-19
 Slug: why-i-left-the-psl-or-the-dsa-or
 Category: Theory
 Tags: 

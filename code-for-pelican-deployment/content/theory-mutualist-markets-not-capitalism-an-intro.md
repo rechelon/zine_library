@@ -1,6 +1,6 @@
 ---
 Title: Markets Not Capitalism An Intro
-Date: 2026-02-04
+Date: 2026-04-19
 Slug: markets-not-capitalism-an-intro
 Category: Theory
 Tags: mutualist

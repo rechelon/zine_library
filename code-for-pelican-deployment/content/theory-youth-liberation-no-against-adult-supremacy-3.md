@@ -1,6 +1,6 @@
 ---
 Title: No Against Adult Supremacy 3
-Date: 2026-02-04
+Date: 2026-04-19
 Slug: no-against-adult-supremacy-3
 Category: Theory
 Tags: youth_liberation

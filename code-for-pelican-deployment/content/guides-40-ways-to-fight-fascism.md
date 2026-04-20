@@ -1,6 +1,6 @@
 ---
 Title: 40 Ways To Fight Fascism
-Date: 2026-02-04
+Date: 2026-04-19
 Slug: 40-ways-to-fight-fascism
 Category: Guides
 Tags: 

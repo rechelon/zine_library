@@ -1,6 +1,6 @@
 ---
 Title: Confronting A Silent Assassin Intoxication Culture in Resistance Movements
-Date: 2026-02-04
+Date: 2026-04-19
 Slug: confronting-a-silent-assassin-intoxication-culture-in-resistance-movements
 Category: Personal Dynamics
 Tags: 

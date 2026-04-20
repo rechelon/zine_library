@@ -1,6 +1,6 @@
 ---
 Title: Machinery Of Hopelessness
-Date: 2026-02-04
+Date: 2026-04-19
 Slug: machinery-of-hopelessness
 Category: Theory
 Tags: 

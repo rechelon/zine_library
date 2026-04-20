@@ -1,6 +1,6 @@
 ---
 Title: Towards a Less Fucked Up World
-Date: 2026-02-04
+Date: 2026-04-19
 Slug: towards-a-less-fucked-up-world
 Category: Personal Dynamics
 Tags: 

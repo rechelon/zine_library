@@ -1,6 +1,6 @@
 ---
 Title: Keep Hoods Yours, interview
-Date: 2026-02-04
+Date: 2026-04-19
 Slug: keep-hoods-yours-interview
 Category: Theory
 Tags: 

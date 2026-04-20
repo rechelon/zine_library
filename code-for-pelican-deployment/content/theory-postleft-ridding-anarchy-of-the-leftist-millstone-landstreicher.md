@@ -1,6 +1,6 @@
 ---
 Title: Ridding Anarchy of the Leftist Millstone
-Date: 2026-02-04
+Date: 2026-04-19
 Slug: ridding-anarchy-of-the-leftist-millstone
 Category: Theory
 Tags: postleft

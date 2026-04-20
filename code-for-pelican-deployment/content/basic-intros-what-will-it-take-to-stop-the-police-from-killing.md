@@ -1,6 +1,6 @@
 ---
 Title: What Will It Take To Stop The Police From Killing
-Date: 2026-02-04
+Date: 2026-04-19
 Slug: what-will-it-take-to-stop-the-police-from-killing
 Category: Basic Intros
 Tags: 

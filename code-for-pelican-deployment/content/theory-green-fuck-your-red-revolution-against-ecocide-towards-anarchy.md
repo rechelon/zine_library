@@ -1,6 +1,6 @@
 ---
 Title: Fuck Your Red Revolution, Against Ecocide Towards Anarchy
-Date: 2026-02-04
+Date: 2026-04-19
 Slug: fuck-your-red-revolution-against-ecocide-towards-anarchy
 Category: Theory
 Tags: green

@@ -1,6 +1,6 @@
 ---
 Title: Stay Calm
-Date: 2026-02-04
+Date: 2026-04-19
 Slug: stay-calm
 Category: Guides
 Tags: 

@@ -1,7 +1,7 @@
 import os
 import re
 import shutil
-# import pillow
+
 from pathlib import Path
 from datetime import datetime
 
@@ -9,13 +9,14 @@ from pdf2image import convert_from_path
 from PIL import Image
 
 from blessings import Terminal
+
 term = Terminal()
-green = term.green
+bgreen = term.bold_green
 bred = term.bold_red
 byellow = term.bold_yellow
 
 
-ROOT_DIR = Path("./input_zines") 
+ROOT_DIR = Path("./input_zines")
 
 SCRIPT_DIR = Path(__file__).parent.resolve()
 CONTENT_DIR = SCRIPT_DIR / "content"
@@ -33,12 +34,14 @@ def slugify(text: str) -> str:
     text = re.sub(r"[\s_-]+", "-", text)
     return text.strip("-")
 
+
 def sanitize_path_part(text: str) -> str:
     text = text.lower()
     text = text.replace("&", "and")
     text = re.sub(r"\s+", "_", text)
     text = re.sub(r"[^a-z0-9_-]", "", text)
     return text
+
 
 def clean_title(text: str) -> str:
     text = text.strip()
@@ -58,10 +61,7 @@ def get_category_and_tags(pdf_path: Path):
     relative = pdf_path.parent.relative_to(ROOT_DIR)
     parts = list(relative.parts)
     category = parts[0].replace("&", "and").title() if parts else ""
-    tags = [
-        p.replace("&", "and").lower().replace(" ", "_")
-        for p in parts[1:]
-    ]
+    tags = [p.replace("&", "and").lower().replace(" ", "_") for p in parts[1:]]
     return category, tags
 
 
@@ -69,6 +69,7 @@ def markdown_path_for_pdf(pdf_path: Path) -> Path:
     relative = pdf_path.relative_to(ROOT_DIR).with_suffix("")
     slug = slugify("-".join(relative.parts))
     return CONTENT_DIR / f"{slug}.md"
+
 
 def copied_pdf_path(pdf_path: Path) -> Path:
     relative = pdf_path.relative_to(ROOT_DIR)
@@ -98,6 +99,24 @@ def generate_cover_image(pdf_path: Path) -> Path:
     cover_path = cover_image_path_for_pdf(pdf_path)
     if cover_path.exists():
         return cover_path
+    cover_path.parent.mkdir(parents=True, exist_ok=True)
+    images = convert_from_path(pdf_path, first_page=1, last_page=1, dpi=200)
+    page = images[0]
+    width, height = page.size
+    right_half = page.crop((width // 2, 0, width, height))
+    target_width = 400
+    aspect_ratio = right_half.height / right_half.width
+    target_height = int(target_width * aspect_ratio)
+    resized = right_half.resize((target_width, target_height), Image.LANCZOS)
+    resized.convert("RGB").save(cover_path, "JPEG", quality=90, optimize=True)
+    return cover_path
+
+
+"""
+def generate_cover_image(pdf_path: Path) -> Path:
+    cover_path = cover_image_path_for_pdf(pdf_path)
+    if cover_path.exists():
+        return cover_path
     images = convert_from_path(
         pdf_path,
         first_page=1,
@@ -109,6 +128,7 @@ def generate_cover_image(pdf_path: Path) -> Path:
     right_half = page.crop((width // 2, 0, width, height))
     right_half.convert("RGB").save(cover_path, "JPEG", quality=90)
     return cover_path
+"""
 
 
 def create_markdown(pdf_path: Path):
@@ -134,16 +154,18 @@ def create_markdown(pdf_path: Path):
     ]
     if author:
         front_matter.append(f"Author: {author}")
-    front_matter.extend([
-        f"Cover: {{static}}/images/{cover_path.name}",
-        f"PDF: {{static}}/{rel_pdf}",
-        "---",
-        "",
-        f'<img src="{{static}}/images/{cover_path.name}" width="200" />',
-        "",
-        f"[Download imposed PDF]({{static}}/{rel_pdf})",
-        "",
-    ])
+    front_matter.extend(
+        [
+            f"Cover: {{static}}/images/{cover_path.name}",
+            f"PDF: {{static}}/{rel_pdf}",
+            "---",
+            "",
+            f'<img src="{{static}}/images/{cover_path.name}" width="200" />',
+            "",
+            f"[Download imposed PDF]({{static}}/{rel_pdf})",
+            "",
+        ]
+    )
 
     md_path.write_text("\n".join(front_matter), encoding="utf-8")
     print(bgreen(f"Created: {md_path}"))
@@ -162,4 +184,3 @@ def main():
 
 if __name__ == "__main__":
     main()
-

@@ -1,6 +1,6 @@
 ---
 Title: Rojava Dispatches
-Date: 2026-02-04
+Date: 2026-04-19
 Slug: rojava-dispatches
 Category: Locations And Histories
 Tags: middle_east

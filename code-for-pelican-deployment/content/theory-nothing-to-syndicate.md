@@ -1,6 +1,6 @@
 ---
 Title: Nothing To Syndicate
-Date: 2026-02-04
+Date: 2026-04-19
 Slug: nothing-to-syndicate
 Category: Theory
 Tags: 

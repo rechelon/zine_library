@@ -1,6 +1,6 @@
 ---
 Title: Summer In Smoke, Hong Kong
-Date: 2026-02-04
+Date: 2026-04-19
 Slug: summer-in-smoke-hong-kong
 Category: Locations And Histories
 Tags: east_asia

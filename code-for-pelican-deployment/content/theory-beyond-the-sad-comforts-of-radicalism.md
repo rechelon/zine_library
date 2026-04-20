@@ -1,6 +1,6 @@
 ---
 Title: Beyond The Sad Comforts of Radicalism
-Date: 2026-02-04
+Date: 2026-04-19
 Slug: beyond-the-sad-comforts-of-radicalism
 Category: Theory
 Tags: 

@@ -1,6 +1,6 @@
 ---
 Title: Forming an Affinity Group
-Date: 2026-02-04
+Date: 2026-04-19
 Slug: forming-an-affinity-group
 Category: Guides
 Tags: 

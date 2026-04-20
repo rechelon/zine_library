@@ -1,6 +1,6 @@
 ---
 Title: DBT Mindfulness
-Date: 2026-02-04
+Date: 2026-04-19
 Slug: dbt-mindfulness
 Category: Personal Dynamics
 Tags: 

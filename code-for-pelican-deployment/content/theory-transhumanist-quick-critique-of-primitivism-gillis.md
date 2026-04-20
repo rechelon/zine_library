@@ -1,6 +1,6 @@
 ---
 Title: Quick Critique of Primitivism
-Date: 2026-02-04
+Date: 2026-04-19
 Slug: quick-critique-of-primitivism
 Category: Theory
 Tags: transhumanist

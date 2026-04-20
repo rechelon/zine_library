@@ -1,6 +1,6 @@
 ---
 Title: Everyone To The Streets, Greece
-Date: 2026-02-04
+Date: 2026-04-19
 Slug: everyone-to-the-streets-greece
 Category: Locations And Histories
 Tags: europe

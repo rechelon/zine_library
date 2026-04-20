@@ -1,6 +1,6 @@
 ---
 Title: The Stockade Stood Burning, Tennessee
-Date: 2026-02-04
+Date: 2026-04-19
 Slug: the-stockade-stood-burning-tennessee
 Category: Locations And Histories
 Tags: us_and_canada

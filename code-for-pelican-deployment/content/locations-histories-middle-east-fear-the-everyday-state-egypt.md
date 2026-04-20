@@ -1,6 +1,6 @@
 ---
 Title: Fear The Everyday State, Egypt
-Date: 2026-02-04
+Date: 2026-04-19
 Slug: fear-the-everyday-state-egypt
 Category: Locations And Histories
 Tags: middle_east

@@ -1,6 +1,6 @@
 ---
 Title: Take What You Need
-Date: 2026-02-04
+Date: 2026-04-19
 Slug: take-what-you-need
 Category: Theory
 Tags: green

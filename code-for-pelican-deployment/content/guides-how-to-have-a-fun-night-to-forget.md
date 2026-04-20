@@ -1,6 +1,6 @@
 ---
 Title: How To Have A Fun Night To Forget
-Date: 2026-02-04
+Date: 2026-04-19
 Slug: how-to-have-a-fun-night-to-forget
 Category: Guides
 Tags: 

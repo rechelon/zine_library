@@ -1,6 +1,6 @@
 ---
 Title: Anarchy And Ecctasy
-Date: 2026-02-04
+Date: 2026-04-19
 Slug: anarchy-and-ecctasy
 Category: Theory
 Tags: green

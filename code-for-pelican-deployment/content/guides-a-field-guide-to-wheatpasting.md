@@ -1,6 +1,6 @@
 ---
 Title: A Field Guide To Wheatpasting
-Date: 2026-02-04
+Date: 2026-04-19
 Slug: a-field-guide-to-wheatpasting
 Category: Guides
 Tags: 

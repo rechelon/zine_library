@@ -1,6 +1,6 @@
 ---
 Title: How We Kiss, Privilege on the Dance Floor
-Date: 2026-02-04
+Date: 2026-04-19
 Slug: how-we-kiss-privilege-on-the-dance-floor
 Category: Theory
 Tags: feminism_and_queer_theory

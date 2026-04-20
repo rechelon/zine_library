@@ -1,6 +1,6 @@
 ---
 Title: The Battle For Reproductive Autonomy
-Date: 2026-02-04
+Date: 2026-04-19
 Slug: the-battle-for-reproductive-autonomy
 Category: Theory
 Tags: feminism_and_queer_theory

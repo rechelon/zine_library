@@ -1,6 +1,6 @@
 ---
 Title: Black Liberal Your Time Is Up
-Date: 2026-02-04
+Date: 2026-04-19
 Slug: black-liberal-your-time-is-up
 Category: Theory
 Tags: race_theory

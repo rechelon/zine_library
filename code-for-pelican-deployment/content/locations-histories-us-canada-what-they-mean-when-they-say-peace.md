@@ -1,6 +1,6 @@
 ---
 Title: What They Mean When They Say Peace
-Date: 2026-02-04
+Date: 2026-04-19
 Slug: what-they-mean-when-they-say-peace
 Category: Locations And Histories
 Tags: us_and_canada

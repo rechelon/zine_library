@@ -1,6 +1,6 @@
 ---
 Title: From Defence Cadres to Popular Militias
-Date: 2026-02-04
+Date: 2026-04-19
 Slug: from-defence-cadres-to-popular-militias
 Category: Locations And Histories
 Tags: europe

@@ -1,6 +1,6 @@
 ---
 Title: The Freedom to succeed the Anarchist Collectives in the Countryside During the Spanish Civil War
-Date: 2026-02-04
+Date: 2026-04-19
 Slug: the-freedom-to-succeed-the-anarchist-collectives-in-the-countryside-during-the-spanish-civil-war
 Category: Locations And Histories
 Tags: europe

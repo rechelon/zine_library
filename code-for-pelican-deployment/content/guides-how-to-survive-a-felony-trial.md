@@ -1,6 +1,6 @@
 ---
 Title: How To Survive A Felony Trial
-Date: 2026-02-04
+Date: 2026-04-19
 Slug: how-to-survive-a-felony-trial
 Category: Guides
 Tags: 

@@ -1,6 +1,6 @@
 ---
 Title: Berlin You've Hurt Me
-Date: 2026-02-04
+Date: 2026-04-19
 Slug: berlin-youve-hurt-me
 Category: Locations And Histories
 Tags: europe

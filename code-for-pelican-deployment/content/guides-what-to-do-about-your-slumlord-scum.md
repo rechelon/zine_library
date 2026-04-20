@@ -1,6 +1,6 @@
 ---
 Title: What To Do About Your Slumlord Scum
-Date: 2026-02-04
+Date: 2026-04-19
 Slug: what-to-do-about-your-slumlord-scum
 Category: Guides
 Tags: 

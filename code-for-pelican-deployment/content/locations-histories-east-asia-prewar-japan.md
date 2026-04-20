@@ -1,6 +1,6 @@
 ---
 Title: Prewar Japan
-Date: 2026-02-04
+Date: 2026-04-19
 Slug: prewar-japan
 Category: Locations And Histories
 Tags: east_asia

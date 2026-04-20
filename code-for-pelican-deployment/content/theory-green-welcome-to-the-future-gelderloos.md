@@ -1,6 +1,6 @@
 ---
 Title: Welcome To The Future
-Date: 2026-02-04
+Date: 2026-04-19
 Slug: welcome-to-the-future
 Category: Theory
 Tags: green

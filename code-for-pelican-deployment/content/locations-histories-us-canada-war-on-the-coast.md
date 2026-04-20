@@ -1,6 +1,6 @@
 ---
 Title: War On The Coast
-Date: 2026-02-04
+Date: 2026-04-19
 Slug: war-on-the-coast
 Category: Locations And Histories
 Tags: us_and_canada

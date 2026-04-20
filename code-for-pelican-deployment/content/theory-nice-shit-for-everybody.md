@@ -1,6 +1,6 @@
 ---
 Title: Nice Shit For Everybody
-Date: 2026-02-04
+Date: 2026-04-19
 Slug: nice-shit-for-everybody
 Category: Theory
 Tags: 

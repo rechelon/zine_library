@@ -1,6 +1,6 @@
 ---
 Title: Russia Revolution Counterrevolution
-Date: 2026-02-04
+Date: 2026-04-19
 Slug: russia-revolution-counterrevolution
 Category: Theory
 Tags: communism_and_syndicalism

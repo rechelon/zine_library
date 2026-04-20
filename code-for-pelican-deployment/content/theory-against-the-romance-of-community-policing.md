@@ -1,6 +1,6 @@
 ---
 Title: Against The Romance Of Community Policing
-Date: 2026-02-04
+Date: 2026-04-19
 Slug: against-the-romance-of-community-policing
 Category: Theory
 Tags: 

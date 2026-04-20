@@ -1,6 +1,6 @@
 ---
 Title: Anarchists in the Hong Kong Resistance
-Date: 2026-02-04
+Date: 2026-04-19
 Slug: anarchists-in-the-hong-kong-resistance
 Category: Locations And Histories
 Tags: east_asia

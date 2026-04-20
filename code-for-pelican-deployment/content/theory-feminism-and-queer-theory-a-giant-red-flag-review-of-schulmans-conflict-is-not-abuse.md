@@ -1,6 +1,6 @@
 ---
 Title: A Giant Red Flag, Review of Schulman's Conflict Is Not Abuse
-Date: 2026-02-04
+Date: 2026-04-19
 Slug: a-giant-red-flag-review-of-schulmans-conflict-is-not-abuse
 Category: Theory
 Tags: feminism_and_queer_theory

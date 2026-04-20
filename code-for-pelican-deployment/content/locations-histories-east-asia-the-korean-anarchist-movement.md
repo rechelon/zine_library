@@ -1,6 +1,6 @@
 ---
 Title: The Korean Anarchist Movement
-Date: 2026-02-04
+Date: 2026-04-19
 Slug: the-korean-anarchist-movement
 Category: Locations And Histories
 Tags: east_asia

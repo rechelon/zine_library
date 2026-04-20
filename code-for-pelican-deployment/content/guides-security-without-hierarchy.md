@@ -1,6 +1,6 @@
 ---
 Title: Security Without Hierarchy
-Date: 2026-02-04
+Date: 2026-04-19
 Slug: security-without-hierarchy
 Category: Guides
 Tags: 

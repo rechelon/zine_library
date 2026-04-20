@@ -1,6 +1,6 @@
 ---
 Title: To Struggle Means We're Alive
-Date: 2026-02-04
+Date: 2026-04-19
 Slug: to-struggle-means-were-alive
 Category: Theory
 Tags: 

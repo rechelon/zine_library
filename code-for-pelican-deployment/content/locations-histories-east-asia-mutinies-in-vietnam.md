@@ -1,6 +1,6 @@
 ---
 Title: Mutinies in Vietnam
-Date: 2026-02-04
+Date: 2026-04-19
 Slug: mutinies-in-vietnam
 Category: Locations And Histories
 Tags: east_asia

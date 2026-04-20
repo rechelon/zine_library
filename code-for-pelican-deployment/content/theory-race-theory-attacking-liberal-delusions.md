@@ -1,6 +1,6 @@
 ---
 Title: Attacking Liberal Delusions
-Date: 2026-02-04
+Date: 2026-04-19
 Slug: attacking-liberal-delusions
 Category: Theory
 Tags: race_theory

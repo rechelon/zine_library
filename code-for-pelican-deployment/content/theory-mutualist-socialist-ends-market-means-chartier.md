@@ -1,11 +1,10 @@
 ---
-Title: Socialist Ends Market Means
-Date: 2026-02-04
-Slug: socialist-ends-market-means
+Title: Socialist Ends Market Means- Chartier
+Date: 2026-04-19
+Slug: socialist-ends-market-means-chartier
 Category: Theory
 Tags: mutualist
 Summary:
-Author: Chartier
 Cover: {static}/images/theory-mutualist-socialist-ends-market-means-chartier.jpg
 PDF: {static}/library/theory/mutualist/socialist_ends_market_means-_chartier.pdf
 ---

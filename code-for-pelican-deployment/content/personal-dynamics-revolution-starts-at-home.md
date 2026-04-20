@@ -1,6 +1,6 @@
 ---
 Title: Revolution Starts At Home
-Date: 2026-02-04
+Date: 2026-04-19
 Slug: revolution-starts-at-home
 Category: Personal Dynamics
 Tags: 

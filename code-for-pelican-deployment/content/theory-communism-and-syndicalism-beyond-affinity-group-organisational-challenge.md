@@ -1,6 +1,6 @@
 ---
 Title: Beyond Affinity Group, Organisational Challenge
-Date: 2026-02-04
+Date: 2026-04-19
 Slug: beyond-affinity-group-organisational-challenge
 Category: Theory
 Tags: communism_and_syndicalism

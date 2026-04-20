@@ -1,6 +1,6 @@
 ---
 Title: Autonomy vs Secession
-Date: 2026-02-04
+Date: 2026-04-19
 Slug: autonomy-vs-secession
 Category: Theory
 Tags: 

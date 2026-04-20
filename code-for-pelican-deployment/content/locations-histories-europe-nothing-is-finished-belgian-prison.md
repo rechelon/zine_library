@@ -1,6 +1,6 @@
 ---
 Title: Nothing Is Finished, Belgian Prison
-Date: 2026-02-04
+Date: 2026-04-19
 Slug: nothing-is-finished-belgian-prison
 Category: Locations And Histories
 Tags: europe

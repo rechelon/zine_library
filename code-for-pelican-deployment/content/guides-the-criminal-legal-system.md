@@ -1,6 +1,6 @@
 ---
 Title: The Criminal Legal System
-Date: 2026-02-04
+Date: 2026-04-19
 Slug: the-criminal-legal-system
 Category: Guides
 Tags: 

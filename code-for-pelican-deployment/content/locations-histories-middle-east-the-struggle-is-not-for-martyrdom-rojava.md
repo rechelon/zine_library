@@ -1,6 +1,6 @@
 ---
 Title: The Struggle Is Not For Martyrdom, Rojava
-Date: 2026-02-04
+Date: 2026-04-19
 Slug: the-struggle-is-not-for-martyrdom-rojava
 Category: Locations And Histories
 Tags: middle_east

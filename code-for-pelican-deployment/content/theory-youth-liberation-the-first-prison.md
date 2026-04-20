@@ -1,6 +1,6 @@
 ---
 Title: The First Prison
-Date: 2026-02-04
+Date: 2026-04-19
 Slug: the-first-prison
 Category: Theory
 Tags: youth_liberation

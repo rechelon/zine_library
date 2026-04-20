@@ -1,6 +1,6 @@
 ---
 Title: Alternatives to the Police
-Date: 2026-02-04
+Date: 2026-04-19
 Slug: alternatives-to-the-police
 Category: Basic Intros
 Tags: 

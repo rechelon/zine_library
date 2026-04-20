@@ -1,6 +1,6 @@
 ---
 Title: Towards A Fresh Revolution
-Date: 2026-02-04
+Date: 2026-04-19
 Slug: towards-a-fresh-revolution
 Category: Theory
 Tags: communism_and_syndicalism

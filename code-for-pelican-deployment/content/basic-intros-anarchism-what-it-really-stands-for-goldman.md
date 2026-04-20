@@ -1,6 +1,6 @@
 ---
 Title: Anarchism What It Really Stands For
-Date: 2026-02-04
+Date: 2026-04-19
 Slug: anarchism-what-it-really-stands-for
 Category: Basic Intros
 Tags: 

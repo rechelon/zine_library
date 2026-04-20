@@ -1,6 +1,6 @@
 ---
 Title: Inventing The Future Review
-Date: 2026-02-04
+Date: 2026-04-19
 Slug: inventing-the-future-review
 Category: Theory
 Tags: mutualist

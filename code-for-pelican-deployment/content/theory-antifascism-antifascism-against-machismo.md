@@ -1,6 +1,6 @@
 ---
 Title: Antifascism Against Machismo
-Date: 2026-02-04
+Date: 2026-04-19
 Slug: antifascism-against-machismo
 Category: Theory
 Tags: antifascism

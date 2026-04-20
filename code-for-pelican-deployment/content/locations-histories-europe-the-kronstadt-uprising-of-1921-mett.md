@@ -1,6 +1,6 @@
 ---
 Title: The Kronstadt Uprising of 1921
-Date: 2026-02-04
+Date: 2026-04-19
 Slug: the-kronstadt-uprising-of-1921
 Category: Locations And Histories
 Tags: europe

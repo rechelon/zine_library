@@ -1,6 +1,6 @@
 ---
 Title: First Revolutionary Measures
-Date: 2026-02-04
+Date: 2026-04-19
 Slug: first-revolutionary-measures
 Category: Theory
 Tags: 

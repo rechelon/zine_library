@@ -1,6 +1,6 @@
 ---
 Title: Yalenskys Fable History of ABC
-Date: 2026-02-04
+Date: 2026-04-19
 Slug: yalenskys-fable-history-of-abc
 Category: Locations And Histories
 Tags: 

@@ -1,6 +1,6 @@
 ---
 Title: Post historic Primitivism
-Date: 2026-02-04
+Date: 2026-04-19
 Slug: post-historic-primitivism
 Category: Theory
 Tags: green

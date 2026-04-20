@@ -1,6 +1,6 @@
 ---
 Title: On Patterns Of Repression In Europe
-Date: 2026-02-04
+Date: 2026-04-19
 Slug: on-patterns-of-repression-in-europe
 Category: Locations And Histories
 Tags: europe

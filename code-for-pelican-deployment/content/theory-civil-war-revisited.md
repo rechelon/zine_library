@@ -1,6 +1,6 @@
 ---
 Title: Civil War Revisited
-Date: 2026-02-04
+Date: 2026-04-19
 Slug: civil-war-revisited
 Category: Theory
 Tags: 

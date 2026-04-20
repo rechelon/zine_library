@@ -1,6 +1,6 @@
 ---
 Title: An Indian Anarchist on Anti Caste Organizing
-Date: 2026-02-04
+Date: 2026-04-19
 Slug: an-indian-anarchist-on-anti-caste-organizing
 Category: Locations And Histories
 Tags: 

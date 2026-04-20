@@ -1,6 +1,6 @@
 ---
 Title: A Brief History of Capitalism
-Date: 2026-02-04
+Date: 2026-04-19
 Slug: a-brief-history-of-capitalism
 Category: Basic Intros
 Tags: 

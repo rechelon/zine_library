@@ -1,6 +1,6 @@
 ---
 Title: Anarchist Agitation and Community Building
-Date: 2026-02-04
+Date: 2026-04-19
 Slug: anarchist-agitation-and-community-building
 Category: Theory
 Tags: communism_and_syndicalism

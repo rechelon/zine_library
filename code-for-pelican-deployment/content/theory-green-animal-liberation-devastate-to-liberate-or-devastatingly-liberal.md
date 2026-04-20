@@ -1,6 +1,6 @@
 ---
 Title: Animal Liberation, Devastate To Liberate Or Devastatingly Liberal
-Date: 2026-02-04
+Date: 2026-04-19
 Slug: animal-liberation-devastate-to-liberate-or-devastatingly-liberal
 Category: Theory
 Tags: green

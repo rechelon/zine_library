@@ -1,6 +1,6 @@
 ---
 Title: Preoccupied, The Logic of Occupation
-Date: 2026-02-04
+Date: 2026-04-19
 Slug: preoccupied-the-logic-of-occupation
 Category: Theory
 Tags: 

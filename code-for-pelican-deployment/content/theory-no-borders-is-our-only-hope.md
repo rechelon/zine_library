@@ -1,6 +1,6 @@
 ---
 Title: No Borders Is Our Only Hope
-Date: 2026-02-04
+Date: 2026-04-19
 Slug: no-borders-is-our-only-hope
 Category: Theory
 Tags: 

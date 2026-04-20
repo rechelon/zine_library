@@ -24,6 +24,10 @@ TRANSLATION_FEED_ATOM = None
 AUTHOR_FEED_ATOM = None
 AUTHOR_FEED_RSS = None
 
+MENU_ITEMS = (
+    ("Anarchist Stickers", "https://anarchiststickersarchive.org/"),
+    ("Anarchist Films", "https://christiebooks.co.uk/anarchist-film-archive/"),
+)
 
 PUBLISHERS = (
     ("AK Press", "https://akpress.org/"),
@@ -44,28 +48,41 @@ DISTROS = (
     ("Scrappy Capy", "https://en.scrappycapydistro.info/zines"),
     ("No Trace Project", "https://www.notrace.how/"),
     ("Sprout", "https://www.sproutdistro.com/"),
+    ("MTBA", "https://mbtadistro.noblogs.org/"),
     ("1312 Press", "https://1312press.noblogs.org/"),
     ("A Zine Library", "https://azinelibrary.org/"),
+    ("Durian", "https://durian-distro.org/"),
     ("Sherwood Forest Zine Library", "https://www.sherwoodforestzinelibrary.org/virtual-zine-library-recently-added/anarchism"),
     ("South Chicago ABC", "https://www.southchicagoabc.org/zine-library/"),
     ("Filler", "https://fillerpgh.wordpress.com/archive/"),
+    ("Antidote", "https://antidotezine.com/category/radiology-transmissions/productions/printable-zines/"),
     ("Haters Cafe", "https://haters.noblogs.org/zines/"),
     ("Prole.info", "https://www.prole.info/"),
     ("Power To The People", "https://msha.ke/powertothepeople/"),
     ("C4SS", "https://zinelibrary.c4ss.org"),
+    ("Neighborhood Anarchists", "https://neighborhoodanarchists.org/zines"),
     ("LittleMouse.fun", "https://www.littlemouse.fun/zines.html"),
+    ("Muntjac", "https://muntjacmag.noblogs.org/zines"),
+    ("Abolitionist Common Library", "https://abolitionistcommonlibrary.wordpress.com/propaganda/"),
     ("Invisible Molotov", "https://invisiblemolotov.wordpress.com/"),
     ("It's Going Down Library", "https://itsgoingdown.org/library/"),
     ("Final Straw Radio", "https://thefinalstrawradio.noblogs.org/zines/"),
     ("Tolerated Individuality", "https://toleratedindividuality.wordpress.com/zine-library/"),
     ("Crimethinc", "https://crimethinc.com"),
+    ("BandiLang Itim", "https://bandilangitim.xyz/"),
     ("Ill Will", "https://illwill.com/print"),
     ("Brown Recluse", "https://www.brownreclusezinedistro.com/"),
     ("True Apple Press", "https://trueleappress.wordpress.com/2020/02/18/2020-distro-catalog/"),
+    ("Anarcho-Transhuman", "https://anarchotranshuman.org/"),
+    ("Butch Anarchy", "https://butchanarchy.noblogs.org/creativework/zines/"),
+    ("Oplopanax", "https://oplopanaxpublishing.wordpress.com/"),
+    ("Space City Anarchist Org", "https://spacecityao.noblogs.org/category/scao-zines/"),
     ("Warzone", "https://warzonedistro.noblogs.org/"),
+    ("Yggdrasil", "https://yggdrasildistro.wordpress.com/zines-literature/"),
+    ("Zabalaza", "https://zabalazabooks.net/"),
 )
 
-DEFAULT_PAGINATION = 1000
+DEFAULT_PAGINATION = 1500
 
 TAG_CLOUD_STEPS = 4
 TAG_CLOUD_MAX_ITEMS = 100

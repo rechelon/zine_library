@@ -1,6 +1,6 @@
 ---
 Title: The Anarchy Of Colored Girls
-Date: 2026-02-04
+Date: 2026-04-19
 Slug: the-anarchy-of-colored-girls
 Category: Theory
 Tags: race_theory

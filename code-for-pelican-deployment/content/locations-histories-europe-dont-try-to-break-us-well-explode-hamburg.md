@@ -1,6 +1,6 @@
 ---
 Title: Don't Try To Break Us We'll Explode, Hamburg
-Date: 2026-02-04
+Date: 2026-04-19
 Slug: dont-try-to-break-us-well-explode-hamburg
 Category: Locations And Histories
 Tags: europe

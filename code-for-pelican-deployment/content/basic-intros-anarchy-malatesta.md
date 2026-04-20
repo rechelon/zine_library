@@ -1,6 +1,6 @@
 ---
 Title: Anarchy
-Date: 2026-02-04
+Date: 2026-04-19
 Slug: anarchy
 Category: Basic Intros
 Tags: 

@@ -1,6 +1,6 @@
 ---
 Title: We Are All Survivors, We Are All Perpetrators
-Date: 2026-02-04
+Date: 2026-04-19
 Slug: we-are-all-survivors-we-are-all-perpetrators
 Category: Personal Dynamics
 Tags: 

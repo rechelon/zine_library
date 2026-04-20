@@ -1,6 +1,6 @@
 ---
 Title: Edible Medicinal Plants
-Date: 2026-02-04
+Date: 2026-04-19
 Slug: edible-medicinal-plants
 Category: Guides
 Tags: 

@@ -1,6 +1,6 @@
 ---
 Title: Anarchism and the Politics of Ressentiment
-Date: 2026-02-04
+Date: 2026-04-19
 Slug: anarchism-and-the-politics-of-ressentiment
 Category: Theory
 Tags: 

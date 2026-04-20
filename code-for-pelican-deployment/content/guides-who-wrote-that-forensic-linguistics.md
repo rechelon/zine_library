@@ -1,6 +1,6 @@
 ---
 Title: Who Wrote That, Forensic Linguistics
-Date: 2026-02-04
+Date: 2026-04-19
 Slug: who-wrote-that-forensic-linguistics
 Category: Guides
 Tags: 

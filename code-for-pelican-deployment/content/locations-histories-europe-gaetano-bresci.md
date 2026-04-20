@@ -1,6 +1,6 @@
 ---
 Title: Gaetano Bresci
-Date: 2026-02-04
+Date: 2026-04-19
 Slug: gaetano-bresci
 Category: Locations And Histories
 Tags: europe

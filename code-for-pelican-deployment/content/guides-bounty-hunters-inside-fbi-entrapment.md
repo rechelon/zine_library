@@ -1,6 +1,6 @@
 ---
 Title: Bounty Hunters, Inside FBI Entrapment
-Date: 2026-02-04
+Date: 2026-04-19
 Slug: bounty-hunters-inside-fbi-entrapment
 Category: Guides
 Tags: 

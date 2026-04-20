@@ -1,6 +1,6 @@
 ---
 Title: Libertarian Socialism
-Date: 2026-02-04
+Date: 2026-04-19
 Slug: libertarian-socialism
 Category: Theory
 Tags: communism_and_syndicalism

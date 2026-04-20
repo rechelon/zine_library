@@ -1,6 +1,6 @@
 ---
 Title: Youth Liberation Now 1
-Date: 2026-02-04
+Date: 2026-04-19
 Slug: youth-liberation-now-1
 Category: Theory
 Tags: youth_liberation

@@ -1,6 +1,6 @@
 ---
 Title: Making Sense of Fascism
-Date: 2026-02-04
+Date: 2026-04-19
 Slug: making-sense-of-fascism
 Category: Theory
 Tags: antifascism

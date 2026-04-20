@@ -1,6 +1,6 @@
 ---
 Title: Lexicon Pamphlets
-Date: 2026-02-04
+Date: 2026-04-19
 Slug: lexicon-pamphlets
 Category: Basic Intros
 Tags: 

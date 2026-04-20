@@ -1,6 +1,6 @@
 ---
 Title: Fuck Abuse Kill Power
-Date: 2026-02-04
+Date: 2026-04-19
 Slug: fuck-abuse-kill-power
 Category: Theory
 Tags: feminism_and_queer_theory

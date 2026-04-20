@@ -1,6 +1,6 @@
 ---
 Title: Skin In The Game
-Date: 2026-02-04
+Date: 2026-04-19
 Slug: skin-in-the-game
 Category: Theory
 Tags: antifascism

@@ -1,6 +1,6 @@
 ---
 Title: Anarchist Tactics At Standing Rock
-Date: 2026-02-04
+Date: 2026-04-19
 Slug: anarchist-tactics-at-standing-rock
 Category: Locations And Histories
 Tags: us_and_canada

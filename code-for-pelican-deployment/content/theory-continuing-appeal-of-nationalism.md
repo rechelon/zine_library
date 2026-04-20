@@ -1,6 +1,6 @@
 ---
 Title: Continuing Appeal Of Nationalism
-Date: 2026-02-04
+Date: 2026-04-19
 Slug: continuing-appeal-of-nationalism
 Category: Theory
 Tags: 

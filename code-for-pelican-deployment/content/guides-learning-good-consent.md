@@ -1,6 +1,6 @@
 ---
 Title: Learning Good Consent
-Date: 2026-02-04
+Date: 2026-04-19
 Slug: learning-good-consent
 Category: Guides
 Tags: 

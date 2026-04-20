@@ -1,6 +1,6 @@
 ---
 Title: Smashing the Orderly Party Anarchist Critique of Leninism
-Date: 2026-02-04
+Date: 2026-04-19
 Slug: smashing-the-orderly-party-anarchist-critique-of-leninism
 Category: Theory
 Tags: 

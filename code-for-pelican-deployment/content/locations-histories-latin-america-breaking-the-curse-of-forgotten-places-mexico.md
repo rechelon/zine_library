@@ -1,6 +1,6 @@
 ---
 Title: Breaking The Curse of Forgotten Places, Mexico
-Date: 2026-02-04
+Date: 2026-04-19
 Slug: breaking-the-curse-of-forgotten-places-mexico
 Category: Locations And Histories
 Tags: latin_america

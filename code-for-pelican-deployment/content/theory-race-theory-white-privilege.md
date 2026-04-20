@@ -1,6 +1,6 @@
 ---
 Title: White Privilege
-Date: 2026-02-04
+Date: 2026-04-19
 Slug: white-privilege
 Category: Theory
 Tags: race_theory

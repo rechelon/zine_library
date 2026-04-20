@@ -1,6 +1,6 @@
 ---
 Title: Organic Emergence of Property From Reputation
-Date: 2026-02-04
+Date: 2026-04-19
 Slug: organic-emergence-of-property-from-reputation
 Category: Theory
 Tags: mutualist

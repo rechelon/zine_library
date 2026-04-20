@@ -1,6 +1,6 @@
 ---
 Title: Eternal War On The Hitler Youth, Germany
-Date: 2026-02-04
+Date: 2026-04-19
 Slug: eternal-war-on-the-hitler-youth-germany
 Category: Locations And Histories
 Tags: europe

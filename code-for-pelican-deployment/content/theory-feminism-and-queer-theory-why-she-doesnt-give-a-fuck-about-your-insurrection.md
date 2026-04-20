@@ -1,6 +1,6 @@
 ---
 Title: Why She Doesn't Give A Fuck About Your Insurrection
-Date: 2026-02-04
+Date: 2026-04-19
 Slug: why-she-doesnt-give-a-fuck-about-your-insurrection
 Category: Theory
 Tags: feminism_and_queer_theory

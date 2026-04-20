@@ -1,6 +1,6 @@
 ---
 Title: 20 Theses On Subversion of Metropolis
-Date: 2026-02-04
+Date: 2026-04-19
 Slug: 20-theses-on-subversion-of-metropolis
 Category: Theory
 Tags: 

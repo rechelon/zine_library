@@ -1,6 +1,6 @@
 ---
 Title: Queering Anarchism
-Date: 2026-02-04
+Date: 2026-04-19
 Slug: queering-anarchism
 Category: Theory
 Tags: feminism_and_queer_theory

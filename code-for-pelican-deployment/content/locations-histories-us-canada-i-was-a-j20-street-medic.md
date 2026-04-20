@@ -1,6 +1,6 @@
 ---
 Title: I Was A J20 Street Medic
-Date: 2026-02-04
+Date: 2026-04-19
 Slug: i-was-a-j20-street-medic
 Category: Locations And Histories
 Tags: us_and_canada

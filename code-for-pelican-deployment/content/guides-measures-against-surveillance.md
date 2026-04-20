@@ -1,6 +1,6 @@
 ---
 Title: Measures Against Surveillance
-Date: 2026-02-04
+Date: 2026-04-19
 Slug: measures-against-surveillance
 Category: Guides
 Tags: 

@@ -1,6 +1,6 @@
 ---
 Title: Palestine, Mon Amour
-Date: 2026-02-04
+Date: 2026-04-19
 Slug: palestine-mon-amour
 Category: Locations And Histories
 Tags: middle_east

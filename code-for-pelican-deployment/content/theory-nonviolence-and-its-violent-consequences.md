@@ -1,6 +1,6 @@
 ---
 Title: Nonviolence and its violent consequences
-Date: 2026-02-04
+Date: 2026-04-19
 Slug: nonviolence-and-its-violent-consequences
 Category: Theory
 Tags: 

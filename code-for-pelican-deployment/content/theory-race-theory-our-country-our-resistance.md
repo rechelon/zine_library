@@ -1,6 +1,6 @@
 ---
 Title: Our Country Our Resistance
-Date: 2026-02-04
+Date: 2026-04-19
 Slug: our-country-our-resistance
 Category: Theory
 Tags: race_theory

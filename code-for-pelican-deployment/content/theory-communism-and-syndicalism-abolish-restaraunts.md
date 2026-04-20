@@ -1,6 +1,6 @@
 ---
 Title: Abolish Restaraunts
-Date: 2026-02-04
+Date: 2026-04-19
 Slug: abolish-restaraunts
 Category: Theory
 Tags: communism_and_syndicalism

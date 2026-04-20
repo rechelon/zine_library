@@ -1,6 +1,6 @@
 ---
 Title: Secret World of Terijian
-Date: 2026-02-04
+Date: 2026-04-19
 Slug: secret-world-of-terijian
 Category: Fiction
 Tags: 

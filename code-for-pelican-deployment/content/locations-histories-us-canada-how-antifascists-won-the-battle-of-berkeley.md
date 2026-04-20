@@ -1,6 +1,6 @@
 ---
 Title: How Antifascists Won The Battle of Berkeley
-Date: 2026-02-04
+Date: 2026-04-19
 Slug: how-antifascists-won-the-battle-of-berkeley
 Category: Locations And Histories
 Tags: us_and_canada

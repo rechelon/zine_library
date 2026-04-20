@@ -1,6 +1,6 @@
 ---
 Title: Angry Brigade, Britain
-Date: 2026-02-04
+Date: 2026-04-19
 Slug: angry-brigade-britain
 Category: Locations And Histories
 Tags: europe

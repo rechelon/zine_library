@@ -1,6 +1,6 @@
 ---
 Title: Fight Fascists Destroy Fascism
-Date: 2026-02-04
+Date: 2026-04-19
 Slug: fight-fascists-destroy-fascism
 Category: Theory
 Tags: antifascism

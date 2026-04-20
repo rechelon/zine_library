@@ -1,6 +1,6 @@
 ---
 Title: The Illegitimacy of Violence, The Violence of Legitimacy
-Date: 2026-02-04
+Date: 2026-04-19
 Slug: the-illegitimacy-of-violence-the-violence-of-legitimacy
 Category: Theory
 Tags: 

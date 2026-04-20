@@ -1,6 +1,6 @@
 ---
 Title: Straight Edge Resistance
-Date: 2026-02-04
+Date: 2026-04-19
 Slug: straight-edge-resistance
 Category: Personal Dynamics
 Tags: 

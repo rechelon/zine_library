@@ -1,6 +1,6 @@
 ---
 Title: Are You An Anarchist
-Date: 2026-02-04
+Date: 2026-04-19
 Slug: are-you-an-anarchist
 Category: Basic Intros
 Tags: 

@@ -1,6 +1,6 @@
 ---
 Title: Autonomously and with Conviction, Metis
-Date: 2026-02-04
+Date: 2026-04-19
 Slug: autonomously-and-with-conviction-metis
 Category: Locations And Histories
 Tags: us_and_canada

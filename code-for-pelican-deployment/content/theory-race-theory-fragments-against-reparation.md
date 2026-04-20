@@ -1,6 +1,6 @@
 ---
 Title: Fragments Against Reparation
-Date: 2026-02-04
+Date: 2026-04-19
 Slug: fragments-against-reparation
 Category: Theory
 Tags: race_theory

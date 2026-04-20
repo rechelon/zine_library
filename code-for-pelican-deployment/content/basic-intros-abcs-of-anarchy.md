@@ -1,6 +1,6 @@
 ---
 Title: ABCs of Anarchy
-Date: 2026-02-04
+Date: 2026-04-19
 Slug: abcs-of-anarchy
 Category: Basic Intros
 Tags: 

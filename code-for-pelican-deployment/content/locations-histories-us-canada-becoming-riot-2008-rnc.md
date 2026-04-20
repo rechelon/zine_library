@@ -1,6 +1,6 @@
 ---
 Title: Becoming Riot, 2008 RNC
-Date: 2026-02-04
+Date: 2026-04-19
 Slug: becoming-riot-2008-rnc
 Category: Locations And Histories
 Tags: us_and_canada

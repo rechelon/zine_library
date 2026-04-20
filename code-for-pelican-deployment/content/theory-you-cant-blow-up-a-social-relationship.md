@@ -1,6 +1,6 @@
 ---
 Title: You Can't Blow Up A Social Relationship
-Date: 2026-02-04
+Date: 2026-04-19
 Slug: you-cant-blow-up-a-social-relationship
 Category: Theory
 Tags: 

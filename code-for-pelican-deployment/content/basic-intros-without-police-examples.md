@@ -1,6 +1,6 @@
 ---
 Title: Without Police, Examples
-Date: 2026-02-04
+Date: 2026-04-19
 Slug: without-police-examples
 Category: Basic Intros
 Tags: 

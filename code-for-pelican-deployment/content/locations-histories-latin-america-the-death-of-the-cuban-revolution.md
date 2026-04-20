@@ -1,6 +1,6 @@
 ---
 Title: The Death Of The Cuban Revolution
-Date: 2026-02-04
+Date: 2026-04-19
 Slug: the-death-of-the-cuban-revolution
 Category: Locations And Histories
 Tags: latin_america

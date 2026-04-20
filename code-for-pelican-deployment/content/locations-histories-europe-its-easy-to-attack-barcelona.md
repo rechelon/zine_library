@@ -1,6 +1,6 @@
 ---
 Title: It's Easy To Attack, Barcelona
-Date: 2026-02-04
+Date: 2026-04-19
 Slug: its-easy-to-attack-barcelona
 Category: Locations And Histories
 Tags: europe

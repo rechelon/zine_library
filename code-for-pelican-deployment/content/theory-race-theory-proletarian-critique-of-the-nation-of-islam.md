@@ -1,6 +1,6 @@
 ---
 Title: Proletarian Critique of the Nation of Islam
-Date: 2026-02-04
+Date: 2026-04-19
 Slug: proletarian-critique-of-the-nation-of-islam
 Category: Theory
 Tags: race_theory

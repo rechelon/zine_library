@@ -1,6 +1,6 @@
 ---
 Title: Anarchism Aheory and Practice
-Date: 2026-02-04
+Date: 2026-04-19
 Slug: anarchism-aheory-and-practice
 Category: Theory
 Tags: communism_and_syndicalism

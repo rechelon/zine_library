@@ -1,6 +1,6 @@
 ---
 Title: Witches Midwives and Nurses
-Date: 2026-02-04
+Date: 2026-04-19
 Slug: witches-midwives-and-nurses
 Category: Locations And Histories
 Tags: europe

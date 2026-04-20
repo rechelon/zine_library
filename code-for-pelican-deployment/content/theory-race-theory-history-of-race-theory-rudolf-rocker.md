@@ -1,6 +1,6 @@
 ---
 Title: History of Race Theory
-Date: 2026-02-04
+Date: 2026-04-19
 Slug: history-of-race-theory
 Category: Theory
 Tags: race_theory

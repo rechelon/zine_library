@@ -1,6 +1,6 @@
 ---
 Title: Untying The Knot, Feminism, Anarchism and Organization
-Date: 2026-02-04
+Date: 2026-04-19
 Slug: untying-the-knot-feminism-anarchism-and-organization
 Category: Theory
 Tags: feminism_and_queer_theory

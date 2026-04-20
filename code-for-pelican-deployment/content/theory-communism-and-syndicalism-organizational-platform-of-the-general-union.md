@@ -1,6 +1,6 @@
 ---
 Title: Organizational Platform of the General Union
-Date: 2026-02-04
+Date: 2026-04-19
 Slug: organizational-platform-of-the-general-union
 Category: Theory
 Tags: communism_and_syndicalism

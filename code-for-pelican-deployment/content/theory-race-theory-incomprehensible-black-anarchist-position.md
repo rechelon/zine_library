@@ -1,6 +1,6 @@
 ---
 Title: Incomprehensible Black Anarchist Position
-Date: 2026-02-04
+Date: 2026-04-19
 Slug: incomprehensible-black-anarchist-position
 Category: Theory
 Tags: race_theory

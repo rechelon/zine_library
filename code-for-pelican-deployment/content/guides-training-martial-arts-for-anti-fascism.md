@@ -1,11 +1,10 @@
 ---
-Title: Training Martial Arts for Anti
-Date: 2026-02-04
-Slug: training-martial-arts-for-anti
+Title: Training Martial Arts for Anti-Fascism
+Date: 2026-04-19
+Slug: training-martial-arts-for-anti-fascism
 Category: Guides
 Tags: 
 Summary:
-Author: Fascism
 Cover: {static}/images/guides-training-martial-arts-for-anti-fascism.jpg
 PDF: {static}/library/guides/training_martial_arts_for_anti-fascism.pdf
 ---

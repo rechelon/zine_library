@@ -1,6 +1,6 @@
 ---
 Title: There's No Such Thing As A Revolutionary Government
-Date: 2026-02-04
+Date: 2026-04-19
 Slug: theres-no-such-thing-as-a-revolutionary-government
 Category: Basic Intros
 Tags: 

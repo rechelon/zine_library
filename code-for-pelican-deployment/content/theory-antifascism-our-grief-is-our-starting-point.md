@@ -1,6 +1,6 @@
 ---
 Title: Our Grief Is Our Starting Point
-Date: 2026-02-04
+Date: 2026-04-19
 Slug: our-grief-is-our-starting-point
 Category: Theory
 Tags: antifascism

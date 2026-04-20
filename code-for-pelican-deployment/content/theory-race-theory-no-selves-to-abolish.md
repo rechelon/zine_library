@@ -1,6 +1,6 @@
 ---
 Title: No Selves To Abolish
-Date: 2026-02-04
+Date: 2026-04-19
 Slug: no-selves-to-abolish
 Category: Theory
 Tags: race_theory

@@ -1,6 +1,6 @@
 ---
 Title: Review_ Ecofascism
-Date: 2026-02-04
+Date: 2026-04-19
 Slug: review-ecofascism
 Category: Theory
 Tags: antifascism

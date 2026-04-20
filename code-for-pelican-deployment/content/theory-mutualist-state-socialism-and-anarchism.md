@@ -1,6 +1,6 @@
 ---
 Title: State Socialism and Anarchism
-Date: 2026-02-04
+Date: 2026-04-19
 Slug: state-socialism-and-anarchism
 Category: Theory
 Tags: mutualist

@@ -1,6 +1,6 @@
 ---
 Title: We Are Being Doxxed
-Date: 2026-02-04
+Date: 2026-04-19
 Slug: we-are-being-doxxed
 Category: Guides
 Tags: 

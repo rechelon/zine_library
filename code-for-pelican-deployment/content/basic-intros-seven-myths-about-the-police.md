@@ -1,6 +1,6 @@
 ---
 Title: Seven Myths About The Police
-Date: 2026-02-04
+Date: 2026-04-19
 Slug: seven-myths-about-the-police
 Category: Basic Intros
 Tags: 

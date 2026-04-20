@@ -1,6 +1,6 @@
 ---
 Title: Anarchism
-Date: 2026-02-04
+Date: 2026-04-19
 Slug: anarchism
 Category: Basic Intros
 Tags: 

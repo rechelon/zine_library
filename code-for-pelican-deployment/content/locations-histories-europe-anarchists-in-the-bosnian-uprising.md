@@ -1,6 +1,6 @@
 ---
 Title: Anarchists in the Bosnian Uprising
-Date: 2026-02-04
+Date: 2026-04-19
 Slug: anarchists-in-the-bosnian-uprising
 Category: Locations And Histories
 Tags: europe

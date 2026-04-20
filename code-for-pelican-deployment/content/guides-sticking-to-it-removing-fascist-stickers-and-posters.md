@@ -1,6 +1,6 @@
 ---
 Title: Sticking to It, Removing Fascist Stickers and Posters
-Date: 2026-02-04
+Date: 2026-04-19
 Slug: sticking-to-it-removing-fascist-stickers-and-posters
 Category: Guides
 Tags: 

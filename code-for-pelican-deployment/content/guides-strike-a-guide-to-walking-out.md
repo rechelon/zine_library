@@ -1,6 +1,6 @@
 ---
 Title: Strike, A Guide To Walking Out
-Date: 2026-02-04
+Date: 2026-04-19
 Slug: strike-a-guide-to-walking-out
 Category: Guides
 Tags: 

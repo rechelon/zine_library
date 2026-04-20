@@ -1,6 +1,6 @@
 ---
 Title: Os Cangaceiros A Crime Called Freedom
-Date: 2026-02-04
+Date: 2026-04-19
 Slug: os-cangaceiros-a-crime-called-freedom
 Category: Locations And Histories
 Tags: europe

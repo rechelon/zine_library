@@ -1,6 +1,6 @@
 ---
 Title: In Defense of Anarchism
-Date: 2026-02-04
+Date: 2026-04-19
 Slug: in-defense-of-anarchism
 Category: Theory
 Tags: 

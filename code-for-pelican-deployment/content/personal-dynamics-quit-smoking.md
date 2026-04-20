@@ -1,6 +1,6 @@
 ---
 Title: Quit Smoking
-Date: 2026-02-04
+Date: 2026-04-19
 Slug: quit-smoking
 Category: Personal Dynamics
 Tags: 

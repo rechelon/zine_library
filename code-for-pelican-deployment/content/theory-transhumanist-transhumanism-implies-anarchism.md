@@ -1,6 +1,6 @@
 ---
 Title: Transhumanism Implies Anarchism
-Date: 2026-02-04
+Date: 2026-04-19
 Slug: transhumanism-implies-anarchism
 Category: Theory
 Tags: transhumanist

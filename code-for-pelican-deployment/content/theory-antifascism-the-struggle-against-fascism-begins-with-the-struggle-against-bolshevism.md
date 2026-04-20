@@ -1,6 +1,6 @@
 ---
 Title: The Struggle Against Fascism Begins With The Struggle Against Bolshevism
-Date: 2026-02-04
+Date: 2026-04-19
 Slug: the-struggle-against-fascism-begins-with-the-struggle-against-bolshevism
 Category: Theory
 Tags: antifascism

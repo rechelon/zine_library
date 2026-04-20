@@ -1,6 +1,6 @@
 ---
 Title: Fuera Ulises, Oaxaca
-Date: 2026-02-04
+Date: 2026-04-19
 Slug: fuera-ulises-oaxaca
 Category: Locations And Histories
 Tags: latin_america

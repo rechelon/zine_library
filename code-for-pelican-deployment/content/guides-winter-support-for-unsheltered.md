@@ -1,6 +1,6 @@
 ---
 Title: Winter Support For Unsheltered
-Date: 2026-02-04
+Date: 2026-04-19
 Slug: winter-support-for-unsheltered
 Category: Guides
 Tags: 

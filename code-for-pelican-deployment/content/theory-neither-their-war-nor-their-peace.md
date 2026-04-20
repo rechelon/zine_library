@@ -1,6 +1,6 @@
 ---
 Title: Neither Their War Nor Their Peace
-Date: 2026-02-04
+Date: 2026-04-19
 Slug: neither-their-war-nor-their-peace
 Category: Theory
 Tags: 

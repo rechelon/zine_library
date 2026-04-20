@@ -1,6 +1,6 @@
 ---
 Title: One Is Not Born A Woman
-Date: 2026-02-04
+Date: 2026-04-19
 Slug: one-is-not-born-a-woman
 Category: Theory
 Tags: feminism_and_queer_theory

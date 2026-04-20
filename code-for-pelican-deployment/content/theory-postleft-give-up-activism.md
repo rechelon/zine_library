@@ -1,6 +1,6 @@
 ---
 Title: Give Up Activism
-Date: 2026-02-04
+Date: 2026-04-19
 Slug: give-up-activism
 Category: Theory
 Tags: postleft

@@ -1,6 +1,6 @@
 ---
 Title: Three Months Of Insurrection, Hong Kong
-Date: 2026-02-04
+Date: 2026-04-19
 Slug: three-months-of-insurrection-hong-kong
 Category: Locations And Histories
 Tags: east_asia

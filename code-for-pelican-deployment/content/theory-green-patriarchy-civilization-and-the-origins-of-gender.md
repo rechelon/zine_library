@@ -1,6 +1,6 @@
 ---
 Title: Patriarchy, Civilization, and the Origins of Gender
-Date: 2026-02-04
+Date: 2026-04-19
 Slug: patriarchy-civilization-and-the-origins-of-gender
 Category: Theory
 Tags: green
